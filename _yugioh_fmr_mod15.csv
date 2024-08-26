@@ -1,0 +1,4378 @@
+card_id,opponent,sa-pow,bcd-pt,sa-tec
+001,Kaiba,8,0,24
+002,Simon Muran,27,0,0
+002,Heishin,22,26,1
+002,Mai Valentine,32,0,0
+002,Bandit Keith,29,0,0
+002,Yami Bakura,30,0,0
+002,Pegasus,15,0,0
+002,High Mage Secmeton,18,33,0
+002,High Mage Atenza,24,30,1
+002,Meadow Mage,20,50,46
+002,Seto 2nd,40,40,0
+002,Guardian Sebek,26,26,24
+002,Heishin 2nd,10,20,1
+003,Weevil Underwood,10,32,0
+003,Pegasus,34,44,0
+003,Kaiba,110,174,0
+003,High Mage Anubisius,24,24,1
+003,High Mage Martis,0,12,12
+003,High Mage Kepura,60,80,0
+003,Darknite,22,26,0
+004,Jono,20,0,0
+004,Villager3,14,18,15
+004,Pegasus,34,40,32
+004,Isis,30,64,56
+004,Kaiba,70,98,0
+004,Jono 2nd,22,23,52
+004,Montain Mage,24,0,0
+004,High Mage Martis,12,12,12
+004,High Mage Kepura,30,40,56
+004,Darknite,22,26,0
+004,Nitemare,1,48,0
+004,Duel Master K,14,18,0
+005,Rex Raptor,18,19,18
+005,Bandit Keith,0,0,70
+005,Shadi,10,12,10
+005,Kaiba,120,174,0
+005,Mage Soldier,14,26,0
+005,Ocean Mage,12,12,1
+005,Desert Mage,18,18,16
+005,High Mage Martis,26,26,25
+005,High Mage Kepura,60,80,0
+006,Mai Valentine,24,40,0
+006,Mage Soldier,6,52,0
+006,High Mage Atenza,24,15,0
+006,High Mage Martis,0,12,12
+006,Meadow Mage,44,50,46
+006,Seto 2nd,32,40,0
+006,Guardian Neku,44,46,0
+006,Seto 3rd,50,32,16
+007,Seto,8,0,0
+007,Mai Valentine,30,0,0
+007,Shadi,6,0,0
+007,Mage Soldier,6,0,0
+007,Montain Mage,24,0,0
+007,High Mage Atenza,0,0,20
+008,Seto,270,47,6
+008,Rex Raptor,0,19,18
+008,Weevil Underwood,10,32,0
+008,Shadi,12,20,12
+008,Ocean Mage,12,12,1
+008,Forest Mage,2,42,40
+008,High Mage Anubisius,24,24,1
+008,Desert Mage,18,18,16
+009,Simon Muran,90,98,0
+009,Villager1,44,76,60
+009,Villager2,15,26,25
+009,Villager3,14,18,15
+009,Bandit Keith,28,40,1
+009,Montain Mage,24,72,56
+009,Meadow Mage,120,158,150
+009,Duel Master K,14,18,0
+010,Simon Muran,30,0,0
+010,Villager2,15,0,0
+010,Weevil Underwood,10,32,0
+010,Pegasus,34,44,0
+010,Isis,34,64,0
+010,Kaiba,60,86,0
+010,High Mage Anubisius,24,24,1
+010,Meadow Mage,46,50,46
+010,High Mage Kepura,30,40,60
+010,Labyrinth Mage,16,16,14
+010,Seto 2nd,32,40,0
+010,Darknite,22,26,1
+010,Nitemare,1,48,0
+011,Rex Raptor,18,0,6
+011,Desert Mage,80,0,0
+011,Labyrinth Mage,16,0,0
+011,Seto 3rd,0,6,0
+011,Darknite,26,24,0
+011,Nitemare,32,0,0
+012,Jono,0,20,0
+012,Isis,0,0,8
+012,Jono 2nd,24,0,0
+012,High Mage Secmeton,24,0,0
+012,High Mage Kepura,36,40,0
+012,Seto 2nd,16,20,1
+012,Darknite,0,6,0
+012,Nitemare,32,0,0
+013,Weevil Underwood,26,0,0
+013,Mai Valentine,102,120,10
+013,Pegasus,34,0,0
+013,Mage Soldier,20,28,0
+013,Jono 2nd,0,6,0
+013,Teana 2nd,8,8,6
+013,High Mage Anubisius,24,30,1
+013,High Mage Atenza,68,90,1
+013,Guardian Neku,22,26,0
+013,Darknite,22,26,1
+014,Simon Muran,6,0,0
+014,Villager2,0,12,0
+014,Kaiba,0,0,20
+014,Jono 2nd,24,0,0
+014,High Mage Secmeton,24,42,0
+014,High Mage Kepura,0,6,0
+014,Guardian Sebek,24,32,28
+014,Guardian Neku,0,6,0
+014,Darknite,22,26,1
+015,Jono,16,0,0
+015,Mage Soldier,0,0,18
+015,Jono 2nd,24,0,0
+015,High Mage Secmeton,24,0,0
+015,High Mage Kepura,36,40,0
+015,Seto 2nd,16,20,1
+015,Guardian Neku,0,0,24
+015,Darknite,22,26,1
+016,Simon Muran,60,64,54
+016,Jono,64,50,64
+016,Yami Bakura,50,54,46
+016,High Mage Atenza,8,0,0
+016,Nitemare,2,0,20
+017,High Mage Atenza,4,0,0
+017,Nitemare,0,0,20
+018,High Mage Anubisius,4,0,0
+019,Teana,0,0,6
+019,High Mage Secmeton,20,0,0
+020,High Mage Martis,20,0,0
+021,Simon Muran,0,0,25
+021,Desert Mage,6,0,0
+021,High Mage Kepura,18,0,0
+022,Shadi,16,0,0
+022,High Mage Martis,24,0,0
+022,Guardian Neku,22,0,0
+022,Heishin 2nd,0,0,20
+022,Nitemare,12,0,0
+023,Villager2,18,0,0
+023,Villager3,20,0,0
+023,Weevil Underwood,0,10,4
+023,Pegasus,42,56,0
+023,Kaiba,145,186,0
+023,Forest Mage,0,6,0
+023,Desert Mage,0,6,4
+023,High Mage Martis,0,12,12
+023,High Mage Kepura,64,80,0
+023,Labyrinth Mage,0,16,14
+023,Guardian Sebek,8,0,0
+023,Seto 3rd,6,0,0
+023,Darknite,30,26,1
+023,Duel Master K,20,0,0
+024,Simon Muran,27,28,1
+024,Teana,186,186,170
+024,Villager1,80,82,66
+024,Villager2,18,26,37
+024,Villager3,14,26,19
+024,Bandit Keith,36,52,1
+024,Pegasus,0,0,48
+024,Teana 2nd,172,182,172
+024,Ocean Mage,0,6,0
+024,High Mage Anubisius,0,0,1
+024,Montain Mage,52,78,60
+024,High Mage Atenza,0,0,1
+024,Duel Master K,14,26,16
+025,Simon Muran,27,0,0
+025,Villager2,15,0,0
+025,Weevil Underwood,26,32,0
+025,Pegasus,0,0,36
+025,Mage Soldier,20,28,0
+025,High Mage Anubisius,18,24,1
+025,High Mage Atenza,0,0,1
+025,High Mage Martis,2,12,12
+025,Meadow Mage,44,62,50
+025,Labyrinth Mage,16,22,14
+025,Seto 2nd,40,46,36
+025,Guardian Neku,0,26,0
+025,Heishin 2nd,0,6,0
+025,Seto 3rd,24,32,18
+026,Heishin,30,6,0
+026,Mai Valentine,32,40,0
+026,Bandit Keith,0,0,10
+026,Pegasus,34,0,16
+026,Kaiba,130,18,0
+026,Mage Soldier,22,28,0
+026,Jono 2nd,8,0,0
+026,High Mage Anubisius,8,0,1
+026,High Mage Atenza,24,30,1
+026,High Mage Martis,12,12,12
+026,High Mage Kepura,64,80,0
+026,Guardian Neku,0,26,0
+026,Darknite,24,26,1
+026,Nitemare,0,6,0
+027,Mai Valentine,32,50,0
+027,Pegasus,34,0,0
+027,Mage Soldier,22,28,0
+027,High Mage Anubisius,0,0,1
+027,High Mage Atenza,24,30,1
+027,Meadow Mage,44,50,46
+027,Seto 2nd,32,40,32
+027,Guardian Neku,22,26,0
+027,Heishin 2nd,14,0,0
+027,Darknite,24,26,1
+028,Mai Valentine,10,0,0
+028,Jono 2nd,20,0,0
+028,Darknite,0,0,1
+029,Jono,64,0,0
+029,Rex Raptor,24,25,18
+029,Shadi,10,12,18
+029,Pegasus,34,40,32
+029,Jono 2nd,22,23,1
+029,Ocean Mage,18,12,1
+029,High Mage Anubisius,0,0,1
+029,Desert Mage,18,18,16
+029,High Mage Martis,12,12,12
+029,Guardian Neku,26,0,0
+029,Darknite,24,26,1
+030,Simon Muran,27,0,0
+030,Villager2,30,0,0
+030,Villager3,28,0,0
+030,Heishin,22,26,1
+030,Bandit Keith,28,40,36
+030,Jono 2nd,0,0,4
+030,High Mage Anubisius,0,0,1
+030,Meadow Mage,44,50,46
+030,Labyrinth Mage,30,40,30
+030,Seto 2nd,32,40,32
+030,Guardian Sebek,24,26,24
+030,Heishin 2nd,22,26,1
+030,Darknite,0,0,1
+030,Duel Master K,28,0,0
+031,Heishin,30,0,0
+031,Mai Valentine,32,40,0
+031,Shadi,10,0,0
+031,Pegasus,34,0,0
+031,Isis,40,10,0
+031,Kaiba,80,0,0
+031,Mage Soldier,22,28,0
+031,High Mage Atenza,24,30,1
+031,Meadow Mage,46,50,46
+031,High Mage Kepura,32,40,56
+031,Seto 2nd,32,40,32
+031,Guardian Neku,20,26,1
+031,Heishin 2nd,0,0,20
+031,Darknite,24,26,1
+031,Nitemare,0,48,0
+032,Rex Raptor,70,0,0
+032,Mai Valentine,32,0,0
+032,Bandit Keith,30,0,0
+032,Mage Soldier,24,0,0
+032,High Mage Atenza,24,30,1
+032,Desert Mage,66,70,64
+032,Guardian Sebek,24,26,24
+032,Guardian Neku,20,26,0
+032,Heishin 2nd,0,0,20
+032,Darknite,0,0,1
+033,Heishin,30,0,0
+033,High Mage Martis,12,0,0
+033,High Mage Kepura,72,0,0
+033,Seto 2nd,16,20,12
+033,Heishin 2nd,0,0,20
+033,Darknite,26,24,1
+033,Nitemare,32,0,0
+034,Villager2,15,0,0
+034,Villager3,14,0,0
+034,Heishin,22,26,1
+034,Yami Bakura,48,40,0
+034,Kaiba,142,174,0
+034,Ocean Mage,0,0,6
+034,High Mage Secmeton,26,33,0
+034,High Mage Martis,25,26,25
+034,High Mage Kepura,64,80,0
+034,Labyrinth Mage,16,16,14
+034,Guardian Neku,0,0,1
+034,Heishin 2nd,22,26,20
+034,Duel Master K,14,0,0
+035,Heishin,20,0,0
+035,Meadow Mage,46,0,0
+035,Seto 2nd,40,0,0
+035,Heishin 2nd,4,0,20
+035,Nitemare,32,0,0
+036,Villager2,15,0,0
+036,Heishin,22,26,1
+036,Mai Valentine,32,40,0
+036,Bandit Keith,92,108,0
+036,Mage Soldier,22,26,0
+036,High Mage Atenza,24,30,1
+036,Labyrinth Mage,16,16,14
+036,Guardian Sebek,74,76,70
+036,Guardian Neku,22,26,0
+036,Heishin 2nd,22,26,0
+036,Duel Master K,0,0,56
+037,High Mage Atenza,6,0,20
+037,Seto 2nd,8,0,0
+037,Heishin 2nd,8,0,0
+037,Darknite,10,0,20
+038,Heishin,28,0,20
+038,Mage Soldier,20,0,0
+038,Meadow Mage,46,0,0
+038,Seto 2nd,60,0,0
+038,Heishin 2nd,28,0,0
+038,Seto 3rd,26,0,0
+038,Darknite,26,0,0
+038,Nitemare,44,0,0
+039,Heishin,0,0,20
+039,Meadow Mage,46,0,0
+039,High Mage Kepura,72,0,0
+039,Seto 2nd,32,40,0
+039,Heishin 2nd,0,0,1
+039,Darknite,26,56,0
+039,Nitemare,44,34,0
+040,Villager2,15,26,0
+040,Villager3,14,18,0
+040,Seto,140,0,0
+040,Pegasus,66,80,64
+040,Forest Mage,30,12,18
+040,High Mage Martis,12,12,12
+040,Labyrinth Mage,16,16,14
+040,Heishin 2nd,0,0,1
+040,Darknite,56,58,1
+040,Duel Master K,14,18,0
+041,Simon Muran,27,0,0
+041,Heishin,22,0,0
+041,Weevil Underwood,26,0,0
+041,Mai Valentine,32,40,46
+041,Mage Soldier,22,26,0
+041,High Mage Anubisius,24,24,1
+041,High Mage Atenza,24,30,1
+041,Meadow Mage,46,50,46
+041,Seto 2nd,50,58,48
+041,Guardian Neku,20,26,1
+042,Heishin,22,26,1
+042,High Mage Secmeton,52,0,0
+042,High Mage Martis,12,12,12
+042,High Mage Kepura,36,40,0
+042,Heishin 2nd,22,26,1
+042,Darknite,52,72,1
+043,Mai Valentine,32,40,0
+043,Mage Soldier,22,26,0
+043,Jono 2nd,22,23,1
+043,High Mage Secmeton,12,0,0
+043,High Mage Atenza,24,30,1
+043,Seto 2nd,16,20,0
+043,Guardian Neku,20,26,0
+043,Darknite,14,0,0
+044,Heishin,22,28,1
+044,Weevil Underwood,26,0,0
+044,Mai Valentine,32,40,46
+044,Yami Bakura,50,0,0
+044,Pegasus,36,0,0
+044,Mage Soldier,22,26,0
+044,High Mage Secmeton,0,33,0
+044,High Mage Anubisius,24,24,1
+044,High Mage Atenza,24,30,1
+044,High Mage Martis,12,12,12
+044,Guardian Neku,22,26,0
+044,Heishin 2nd,22,28,1
+044,Darknite,46,48,1
+045,Villager2,15,26,25
+045,Villager3,14,18,15
+045,Rex Raptor,18,19,18
+045,Shadi,10,12,12
+045,Pegasus,36,80,0
+045,Ocean Mage,12,12,1
+045,Desert Mage,18,18,16
+045,Labyrinth Mage,14,16,14
+045,Duel Master K,14,18,34
+046,Simon Muran,27,0,0
+046,Mai Valentine,32,40,0
+046,Pegasus,36,0,0
+046,Mage Soldier,22,26,0
+046,High Mage Atenza,24,30,1
+046,Meadow Mage,46,50,46
+046,Seto 2nd,32,40,0
+046,Guardian Neku,22,26,1
+046,Darknite,22,24,1
+047,Simon Muran,27,29,0
+047,Villager3,14,18,15
+047,Rex Raptor,18,19,18
+047,Pegasus,36,38,0
+047,Desert Mage,18,18,16
+047,High Mage Martis,12,12,12
+047,Meadow Mage,46,50,46
+047,Seto 2nd,32,40,0
+047,Darknite,22,24,1
+047,Duel Master K,14,18,16
+048,Simon Muran,27,29,0
+048,Jono,10,0,0
+048,Rex Raptor,18,19,18
+048,Shadi,10,12,12
+048,Mage Soldier,20,26,0
+048,Ocean Mage,12,12,1
+048,Desert Mage,18,18,16
+048,High Mage Martis,25,26,25
+048,Meadow Mage,46,50,46
+048,Seto 2nd,32,40,32
+048,Guardian Neku,22,26,1
+048,Seto 3rd,16,32,12
+049,Weevil Underwood,72,0,0
+049,Mai Valentine,32,40,0
+049,Mage Soldier,0,26,0
+049,High Mage Anubisius,72,72,1
+049,High Mage Atenza,24,30,1
+049,Guardian Neku,22,26,1
+050,Jono,0,44,40
+050,Seto,0,21,0
+050,Weevil Underwood,68,84,42
+050,Shadi,10,12,12
+050,Jono 2nd,20,46,1
+050,Ocean Mage,12,12,1
+050,Forest Mage,24,0,24
+050,High Mage Anubisius,72,72,1
+051,Rex Raptor,8,0,0
+051,Jono 2nd,12,0,52
+051,Ocean Mage,18,0,0
+051,High Mage Secmeton,0,10,0
+051,Forest Mage,1,0,0
+051,High Mage Anubisius,0,0,24
+051,High Mage Atenza,0,0,1
+052,Weevil Underwood,30,0,0
+052,Forest Mage,5,0,0
+052,High Mage Anubisius,16,2,24
+052,High Mage Atenza,0,0,1
+053,Villager2,15,0,0
+053,Villager3,14,0,0
+053,Weevil Underwood,60,120,0
+053,High Mage Anubisius,102,100,1
+053,Labyrinth Mage,15,16,14
+053,Duel Master K,14,0,0
+054,Weevil Underwood,98,0,0
+054,Mai Valentine,47,32,46
+054,Mage Soldier,24,26,0
+054,High Mage Anubisius,90,100,1
+054,High Mage Atenza,0,30,1
+054,Guardian Neku,21,26,1
+055,Weevil Underwood,50,0,0
+055,Mai Valentine,47,32,0
+055,Mage Soldier,24,26,0
+055,High Mage Anubisius,72,72,0
+055,High Mage Atenza,24,30,1
+055,Guardian Neku,21,26,1
+056,Forest Mage,0,32,0
+057,Heishin,5,0,20
+057,Weevil Underwood,8,0,22
+058,Simon Muran,30,30,1
+058,Teana,90,180,170
+058,Villager1,74,76,60
+058,Mai Valentine,10,0,0
+058,Mage Soldier,20,26,0
+058,Teana 2nd,172,182,1
+058,Montain Mage,72,72,56
+059,Simon Muran,27,0,0
+059,Villager2,15,0,0
+059,Villager3,14,18,0
+059,Rex Raptor,36,0,0
+059,Desert Mage,34,36,32
+059,High Mage Martis,12,12,12
+059,Meadow Mage,46,50,46
+059,Labyrinth Mage,15,16,14
+059,Seto 2nd,32,40,32
+059,Duel Master K,14,18,0
+060,Mai Valentine,40,0,0
+060,Ocean Mage,9,0,52
+060,High Mage Secmeton,0,10,0
+061,Jono,20,0,0
+061,Villager2,15,26,0
+061,Villager3,14,18,0
+061,Pegasus,26,38,0
+061,Jono 2nd,22,23,1
+061,High Mage Martis,12,12,12
+061,Labyrinth Mage,15,16,14
+061,Darknite,22,24,1
+061,Duel Master K,14,18,0
+062,Mai Valentine,0,32,0
+062,High Mage Atenza,0,0,1
+063,Mai Valentine,8,0,36
+063,High Mage Atenza,0,0,1
+063,Nitemare,32,0,0
+064,Pegasus,0,0,52
+064,Jono 2nd,9,0,0
+064,Forest Mage,0,0,32
+065,Simon Muran,27,0,0
+065,Villager2,15,26,0
+065,Villager3,14,18,0
+065,Mai Valentine,10,0,0
+065,Pegasus,26,38,0
+065,Forest Mage,8,0,32
+065,High Mage Martis,12,12,12
+065,Meadow Mage,46,50,46
+065,Labyrinth Mage,15,16,14
+065,Seto 2nd,32,40,0
+065,Darknite,22,24,0
+065,Duel Master K,14,18,0
+066,Kaiba,12,12,0
+067,Heishin,8,0,0
+067,High Mage Anubisius,0,0,20
+068,Jono 2nd,24,0,0
+068,High Mage Secmeton,25,0,0
+068,Forest Mage,5,0,48
+068,High Mage Atenza,0,0,15
+068,High Mage Kepura,36,40,0
+068,Darknite,22,24,0
+069,Jono 2nd,0,0,34
+070,Weevil Underwood,26,0,0
+070,Mai Valentine,32,32,42
+070,Shadi,48,0,0
+070,Isis,50,0,0
+070,Mage Soldier,22,26,0
+070,Ocean Mage,32,56,1
+070,High Mage Anubisius,10,26,1
+070,High Mage Atenza,25,30,1
+070,Labyrinth Mage,15,16,14
+070,Guardian Neku,21,26,1
+070,Nitemare,0,48,0
+071,Mai Valentine,32,32,0
+071,Shadi,48,0,0
+071,Isis,40,0,0
+071,Mage Soldier,22,26,0
+071,Ocean Mage,32,56,1
+071,High Mage Atenza,25,30,1
+071,Labyrinth Mage,15,16,14
+071,Guardian Neku,21,26,1
+071,Nitemare,0,48,0
+072,Weevil Underwood,12,0,0
+072,Forest Mage,6,0,0
+072,High Mage Anubisius,4,2,0
+073,Jono 2nd,20,0,0
+073,Ocean Mage,32,0,0
+073,High Mage Secmeton,25,0,0
+073,High Mage Atenza,24,0,0
+073,High Mage Kepura,32,39,0
+073,Nitemare,0,0,20
+074,Heishin,13,28,1
+074,High Mage Secmeton,25,0,0
+074,Meadow Mage,46,0,0
+074,High Mage Kepura,32,39,0
+074,Labyrinth Mage,16,14,0
+074,Seto 2nd,32,40,32
+074,Heishin 2nd,31,28,1
+075,Seto,0,115,0
+075,Forest Mage,120,117,104
+076,Seto,140,0,0
+076,Forest Mage,46,42,48
+077,Weevil Underwood,22,33,0
+077,Shadi,24,0,0
+077,Kaiba,130,174,0
+077,Mage Soldier,22,26,0
+077,Ocean Mage,24,24,1
+077,High Mage Anubisius,10,26,1
+077,High Mage Martis,12,12,12
+077,High Mage Kepura,60,78,100
+077,Guardian Neku,21,26,1
+078,Mai Valentine,32,0,14
+078,Bandit Keith,30,0,0
+078,Jono 2nd,52,23,1
+078,High Mage Atenza,25,30,1
+078,Seto 2nd,16,18,12
+078,Guardian Sebek,24,26,24
+078,Nitemare,32,0,0
+079,Heishin,24,24,0
+079,Desert Mage,80,0,0
+079,High Mage Martis,0,0,6
+079,Seto 2nd,16,18,0
+079,Heishin 2nd,24,24,0
+079,Seto 3rd,24,24,0
+079,Darknite,24,22,0
+079,Nitemare,30,34,0
+080,Villager2,15,0,0
+080,Rex Raptor,72,0,0
+080,Weevil Underwood,22,33,0
+080,High Mage Anubisius,24,26,1
+080,Desert Mage,64,64,62
+080,Labyrinth Mage,14,16,14
+081,Rex Raptor,66,0,0
+081,Mai Valentine,30,0,0
+081,Bandit Keith,30,0,0
+081,Mage Soldier,24,0,0
+081,High Mage Atenza,25,27,1
+081,Desert Mage,64,64,62
+081,Guardian Sebek,24,26,24
+081,Guardian Neku,21,26,1
+082,Rex Raptor,26,0,0
+083,Mai Valentine,30,0,0
+083,Bandit Keith,30,0,0
+083,Shadi,10,0,0
+083,Mage Soldier,72,0,0
+083,High Mage Atenza,25,27,1
+083,High Mage Martis,12,12,12
+083,Guardian Sebek,24,26,24
+083,Guardian Neku,67,67,1
+083,Seto 3rd,22,32,20
+084,High Mage Secmeton,25,0,0
+084,High Mage Martis,12,0,0
+084,High Mage Kepura,32,39,0
+084,Guardian Neku,67,67,1
+084,Seto 3rd,22,32,20
+085,High Mage Martis,12,0,0
+085,High Mage Kepura,40,0,0
+085,Guardian Neku,67,67,0
+085,Seto 3rd,22,22,0
+085,Darknite,24,22,0
+085,Nitemare,32,0,0
+086,Mai Valentine,30,0,0
+086,Bandit Keith,30,0,0
+086,Mage Soldier,72,0,0
+086,High Mage Atenza,25,27,1
+086,High Mage Martis,12,12,12
+086,Guardian Sebek,24,26,24
+086,Guardian Neku,67,67,1
+086,Seto 3rd,22,32,20
+087,High Mage Secmeton,25,35,0
+087,High Mage Martis,12,12,0
+087,Guardian Sebek,24,26,24
+087,Guardian Neku,67,67,1
+087,Seto 3rd,22,32,20
+088,High Mage Secmeton,25,0,0
+088,High Mage Martis,12,0,0
+088,High Mage Kepura,32,39,0
+088,Guardian Neku,67,67,1
+088,Seto 3rd,22,32,20
+089,Ocean Mage,24,0,0
+089,High Mage Secmeton,25,35,0
+089,High Mage Atenza,25,27,0
+089,Meadow Mage,46,50,0
+089,Labyrinth Mage,16,14,0
+089,Seto 2nd,32,38,32
+089,Guardian Sebek,24,26,24
+089,Nitemare,0,48,0
+090,Heishin,24,24,0
+090,High Mage Secmeton,25,0,0
+090,High Mage Martis,12,0,0
+090,High Mage Kepura,72,0,0
+090,Seto 2nd,16,18,0
+090,Heishin 2nd,24,24,0
+090,Seto 3rd,24,22,0
+090,Darknite,24,22,0
+090,Nitemare,32,34,0
+091,Mai Valentine,30,0,0
+091,Bandit Keith,30,0,0
+091,Pegasus,26,0,0
+091,Kaiba,148,0,0
+091,High Mage Atenza,25,27,1
+091,High Mage Martis,12,12,12
+091,High Mage Kepura,60,78,88
+091,Guardian Sebek,24,26,24
+091,Darknite,22,24,0
+092,Shadi,20,0,0
+092,Pegasus,0,0,30
+092,Mage Soldier,0,0,20
+092,Forest Mage,7,0,32
+092,High Mage Kepura,16,0,0
+093,High Mage Secmeton,25,35,0
+093,High Mage Kepura,32,40,0
+093,Seto 2nd,16,18,0
+093,Guardian Sebek,74,76,70
+094,Montain Mage,12,10,0
+094,Meadow Mage,20,22,0
+095,Mai Valentine,30,40,0
+095,Bandit Keith,54,40,0
+095,Mage Soldier,44,52,0
+095,High Mage Atenza,25,27,1
+095,High Mage Martis,12,12,12
+095,Guardian Sebek,50,76,46
+095,Guardian Neku,43,46,0
+095,Seto 3rd,22,32,20
+096,Villager2,14,26,25
+096,Villager3,14,18,15
+096,Heishin,22,28,1
+096,Rex Raptor,16,19,16
+096,Bandit Keith,92,108,108
+096,Shadi,10,12,12
+096,Ocean Mage,2,12,1
+096,Desert Mage,16,18,16
+096,Labyrinth Mage,14,16,14
+096,Heishin 2nd,22,28,1
+096,Duel Master K,14,18,14
+097,Villager2,30,26,25
+097,Villager3,14,18,15
+097,Heishin,22,28,1
+097,Rex Raptor,16,19,16
+097,Bandit Keith,92,108,108
+097,Shadi,10,12,12
+097,Ocean Mage,12,12,1
+097,Forest Mage,0,0,64
+097,Desert Mage,16,18,16
+097,High Mage Martis,12,12,12
+097,Labyrinth Mage,14,16,14
+097,Guardian Sebek,74,76,70
+097,Heishin 2nd,22,28,1
+097,Duel Master K,14,18,14
+098,Villager2,14,26,25
+098,Villager3,14,18,17
+098,Seto,0,21,0
+098,Heishin,22,28,1
+098,Bandit Keith,92,108,108
+098,Shadi,10,12,12
+098,Ocean Mage,2,12,1
+098,Forest Mage,24,22,0
+098,Labyrinth Mage,14,16,14
+098,Heishin 2nd,22,28,1
+098,Duel Master K,14,18,14
+099,Seto,54,0,32
+099,Heishin,48,48,0
+099,Labyrinth Mage,18,0,0
+099,Seto 2nd,16,18,0
+099,Guardian Sebek,74,76,0
+099,Heishin 2nd,48,48,0
+099,Seto 3rd,24,24,0
+099,Darknite,24,22,0
+099,Nitemare,32,34,28
+100,Jono,40,0,0
+100,Rex Raptor,0,19,16
+100,Jono 2nd,22,23,1
+100,Desert Mage,16,18,16
+100,High Mage Martis,12,12,12
+100,Seto 2nd,16,18,0
+101,Seto,0,42,0
+101,Shadi,10,12,12
+101,Ocean Mage,2,12,1
+101,Forest Mage,46,42,0
+102,Simon Muran,0,14,1
+102,Teana,12,0,0
+102,Villager2,0,12,12
+102,Meadow Mage,0,22,20
+103,Villager2,16,0,0
+103,Villager3,14,0,0
+103,Seto,30,0,0
+103,Mage Soldier,20,26,1
+103,High Mage Martis,0,12,12
+103,Labyrinth Mage,15,16,14
+103,Guardian Neku,21,26,0
+103,Seto 3rd,22,32,0
+103,Nitemare,0,0,48
+103,Duel Master K,14,0,0
+104,Jono,44,44,40
+104,Seto,0,21,0
+104,Heishin,22,28,1
+104,Yami Bakura,46,48,40
+104,Jono 2nd,38,46,1
+104,High Mage Secmeton,25,33,0
+104,Forest Mage,24,22,0
+104,High Mage Martis,0,12,12
+104,Heishin 2nd,22,28,1
+105,Simon Muran,52,57,1
+105,Jono,44,44,40
+105,Rex Raptor,36,38,32
+105,Jono 2nd,30,46,1
+106,Heishin,22,28,1
+106,High Mage Secmeton,30,76,0
+106,High Mage Martis,0,12,0
+106,Guardian Sebek,24,26,24
+106,Heishin 2nd,22,28,1
+107,Seto,0,21,0
+107,Rex Raptor,16,19,16
+107,Shadi,12,12,12
+107,Ocean Mage,12,12,12
+107,Forest Mage,24,22,0
+107,Desert Mage,16,18,16
+107,Seto 2nd,16,18,0
+108,Villager2,14,26,25
+108,Villager3,14,18,17
+108,Heishin,22,28,1
+108,Rex Raptor,16,19,16
+108,Bandit Keith,28,40,36
+108,Shadi,12,12,12
+108,Ocean Mage,12,12,12
+108,Desert Mage,16,18,16
+108,High Mage Martis,12,12,12
+108,Labyrinth Mage,15,16,14
+108,Guardian Sebek,24,26,24
+108,Heishin 2nd,22,28,1
+108,Duel Master K,14,18,16
+109,Villager2,14,0,0
+109,Villager3,14,0,0
+109,Weevil Underwood,22,33,0
+109,Yami Bakura,48,44,0
+109,Teana 2nd,16,0,0
+109,High Mage Secmeton,25,33,0
+109,High Mage Anubisius,24,26,1
+109,Labyrinth Mage,15,16,14
+109,Duel Master K,14,0,0
+110,Villager2,14,0,0
+110,Villager3,14,0,0
+110,Labyrinth Mage,15,16,14
+110,Seto 2nd,16,18,0
+110,Duel Master K,14,0,0
+111,Teana 2nd,16,0,0
+111,Montain Mage,12,10,0
+111,Meadow Mage,20,22,0
+112,Villager1,12,0,0
+112,Montain Mage,11,10,8
+113,Rex Raptor,0,19,16
+113,Pegasus,26,38,34
+113,Desert Mage,16,18,16
+113,High Mage Martis,12,12,12
+113,Darknite,22,24,1
+114,Heishin,22,28,1
+114,Rex Raptor,18,19,16
+114,Yami Bakura,46,48,40
+114,High Mage Secmeton,25,33,0
+114,Desert Mage,16,18,16
+114,High Mage Martis,25,26,25
+114,Heishin 2nd,22,28,1
+115,Villager2,14,0,0
+115,Heishin,22,28,1
+115,Weevil Underwood,22,33,0
+115,Yami Bakura,46,40,0
+115,Mage Soldier,20,26,0
+115,High Mage Secmeton,25,33,0
+115,High Mage Anubisius,24,26,1
+115,High Mage Martis,12,12,12
+115,Labyrinth Mage,15,16,14
+115,Guardian Neku,21,26,0
+115,Heishin 2nd,22,28,1
+116,Rex Raptor,18,19,16
+116,Weevil Underwood,20,33,32
+116,High Mage Anubisius,24,26,1
+116,Desert Mage,16,18,16
+116,High Mage Martis,12,12,12
+117,Pegasus,8,12,6
+117,Kaiba,12,12,1
+118,Villager2,15,26,0
+118,Villager3,14,18,0
+118,High Mage Martis,12,12,12
+118,Labyrinth Mage,15,16,0
+118,Seto 2nd,16,18,2
+118,Duel Master K,14,18,0
+119,Villager2,15,0,0
+119,Villager3,14,0,0
+119,Weevil Underwood,22,33,0
+119,Mage Soldier,20,26,1
+119,High Mage Anubisius,24,26,0
+119,High Mage Martis,12,12,12
+119,Labyrinth Mage,15,16,0
+119,Guardian Neku,21,26,0
+119,Seto 3rd,22,32,0
+119,Duel Master K,14,0,0
+120,Villager2,15,0,0
+120,Villager3,14,0,0
+120,Labyrinth Mage,15,16,0
+120,Seto 2nd,16,18,2
+120,Duel Master K,14,0,0
+121,Villager2,15,0,0
+121,Weevil Underwood,22,33,0
+121,Pegasus,20,40,0
+121,Mage Soldier,20,26,0
+121,High Mage Anubisius,24,26,0
+121,Labyrinth Mage,15,16,0
+121,Guardian Neku,21,26,0
+121,Darknite,22,24,0
+122,Jono,44,44,40
+122,Seto,138,21,1
+122,Shadi,12,12,0
+122,Pegasus,36,38,1
+122,Isis,44,64,56
+122,Kaiba,64,84,1
+122,Jono 2nd,44,46,1
+122,Ocean Mage,12,12,1
+122,Forest Mage,0,22,0
+122,High Mage Kepura,0,40,48
+123,Simon Muran,52,57,1
+123,Villager1,74,76,60
+123,Seto,0,21,1
+123,Weevil Underwood,22,33,0
+123,Montain Mage,52,72,56
+124,Seto,16,0,0
+124,High Mage Secmeton,25,35,0
+124,Guardian Sebek,50,50,46
+124,Nitemare,0,0,48
+125,Weevil Underwood,30,0,0
+125,Mai Valentine,54,120,132
+125,Pegasus,36,0,0
+125,Mage Soldier,22,26,0
+125,High Mage Anubisius,22,22,1
+125,High Mage Atenza,50,84,1
+125,Guardian Neku,21,26,0
+125,Darknite,22,24,0
+126,High Mage Secmeton,30,0,0
+126,High Mage Kepura,32,39,0
+127,Seto,16,0,0
+127,Mai Valentine,30,0,0
+127,Bandit Keith,30,0,0
+127,Mage Soldier,0,0,68
+127,High Mage Atenza,25,27,1
+127,Seto 2nd,16,18,32
+127,Guardian Sebek,24,26,24
+128,Yami Bakura,10,10,6
+128,Kaiba,12,13,0
+128,Mage Soldier,0,0,66
+128,Seto 2nd,0,0,32
+129,Heishin,0,28,1
+129,Rex Raptor,18,19,16
+129,Shadi,12,12,0
+129,Yami Bakura,46,48,40
+129,Ocean Mage,12,12,1
+129,High Mage Secmeton,25,33,0
+129,Desert Mage,16,18,16
+129,High Mage Martis,12,12,12
+129,Heishin 2nd,22,28,1
+130,Simon Muran,52,57,0
+130,Jono,44,44,40
+130,Seto,0,21,0
+130,Yami Bakura,46,48,40
+130,Jono 2nd,44,46,1
+130,High Mage Secmeton,25,33,0
+130,Forest Mage,24,22,0
+130,Meadow Mage,90,100,90
+131,Ocean Mage,26,0,0
+131,High Mage Secmeton,25,35,0
+131,High Mage Atenza,25,27,0
+131,Labyrinth Mage,16,14,0
+131,Guardian Sebek,24,26,24
+131,Nitemare,0,48,0
+132,Villager2,15,0,0
+132,Villager3,28,0,0
+132,Heishin,0,28,1
+132,Bandit Keith,28,40,36
+132,Labyrinth Mage,30,38,0
+132,Guardian Sebek,24,26,24
+132,Heishin 2nd,22,28,1
+132,Duel Master K,28,0,0
+133,Villager3,14,18,17
+133,Seto,134,21,0
+133,Forest Mage,24,22,0
+133,High Mage Martis,12,12,12
+133,Duel Master K,14,18,16
+134,Seto,0,21,0
+134,Rex Raptor,18,19,16
+134,Shadi,12,12,0
+134,Yami Bakura,46,48,40
+134,Ocean Mage,12,12,1
+134,High Mage Secmeton,25,33,0
+134,Forest Mage,24,22,0
+134,Desert Mage,16,18,16
+135,Jono,44,44,40
+135,Villager2,15,26,25
+135,Villager3,14,18,17
+135,Seto,0,21,0
+135,Heishin,16,28,1
+135,Bandit Keith,28,40,36
+135,Shadi,12,12,0
+135,Jono 2nd,44,46,1
+135,Ocean Mage,12,12,1
+135,Forest Mage,24,22,0
+135,Labyrinth Mage,14,16,0
+135,Heishin 2nd,5,28,1
+135,Duel Master K,14,18,16
+136,Mai Valentine,30,40,0
+136,Mage Soldier,44,48,0
+136,High Mage Atenza,21,27,1
+136,High Mage Martis,12,12,12
+136,Guardian Neku,42,42,0
+136,Seto 3rd,0,32,48
+137,Simon Muran,42,57,1
+137,Jono,44,44,40
+137,Seto,0,21,0
+137,Mage Soldier,20,24,1
+137,Jono 2nd,44,46,1
+137,Seto 3rd,0,32,30
+138,Villager2,15,26,0
+138,Villager3,14,18,0
+138,High Mage Martis,12,12,12
+138,Labyrinth Mage,15,16,0
+138,Seto 2nd,16,18,2
+138,Duel Master K,14,18,0
+139,Villager2,15,26,25
+139,Villager3,14,18,17
+139,Heishin,0,28,1
+139,Rex Raptor,18,19,16
+139,Bandit Keith,28,40,36
+139,Shadi,12,12,12
+139,Ocean Mage,12,12,1
+139,Desert Mage,16,18,16
+139,High Mage Martis,12,12,12
+139,Labyrinth Mage,15,16,0
+139,Guardian Sebek,24,26,24
+139,Heishin 2nd,22,28,1
+139,Duel Master K,14,18,16
+140,Villager2,15,26,0
+140,Villager3,26,36,20
+140,Shadi,32,0,0
+140,Isis,44,64,56
+140,Ocean Mage,24,24,1
+140,High Mage Martis,12,12,12
+140,Labyrinth Mage,30,38,0
+140,Nitemare,0,48,0
+140,Duel Master K,26,36,20
+141,Villager2,15,26,0
+141,Villager3,14,18,0
+141,Weevil Underwood,20,26,1
+141,High Mage Anubisius,22,22,1
+141,High Mage Martis,12,12,12
+141,Labyrinth Mage,14,14,0
+141,Duel Master K,14,18,0
+142,Villager3,14,18,17
+142,Heishin,10,28,1
+142,Yami Bakura,46,48,40
+142,High Mage Secmeton,25,33,0
+142,High Mage Martis,25,26,25
+142,Heishin 2nd,22,28,1
+142,Duel Master K,14,18,16
+143,Heishin,10,28,1
+143,Rex Raptor,10,19,16
+143,Yami Bakura,46,48,40
+143,High Mage Secmeton,25,33,0
+143,Desert Mage,16,18,16
+143,High Mage Martis,25,26,25
+143,Heishin 2nd,22,28,1
+144,Heishin,10,28,1
+144,Rex Raptor,10,19,16
+144,Shadi,12,12,0
+144,Yami Bakura,46,48,40
+144,Ocean Mage,12,12,1
+144,High Mage Secmeton,25,33,0
+144,Desert Mage,16,18,16
+144,High Mage Martis,25,26,25
+144,Heishin 2nd,22,28,1
+145,Seto,0,21,0
+145,Heishin,10,28,1
+145,Rex Raptor,10,19,16
+145,Shadi,12,12,1
+145,Yami Bakura,46,48,40
+145,Ocean Mage,12,12,1
+145,High Mage Secmeton,25,33,0
+145,Forest Mage,14,22,0
+145,Desert Mage,16,18,16
+145,High Mage Martis,12,12,12
+145,Heishin 2nd,22,28,1
+146,Villager1,12,0,0
+146,Montain Mage,11,10,8
+147,Rex Raptor,10,19,16
+147,Shadi,12,12,1
+147,Ocean Mage,12,12,1
+147,Desert Mage,16,18,16
+147,Seto 2nd,16,18,2
+148,Rex Raptor,10,19,16
+148,Shadi,12,12,1
+148,Mage Soldier,20,24,0
+148,Ocean Mage,12,12,1
+148,Desert Mage,16,18,16
+148,High Mage Martis,12,12,12
+148,Seto 3rd,0,32,16
+149,Weevil Underwood,26,0,0
+149,Mai Valentine,30,40,45
+149,Mage Soldier,44,48,0
+149,High Mage Anubisius,22,22,1
+149,High Mage Atenza,25,27,1
+149,High Mage Martis,12,12,12
+149,Guardian Neku,16,42,1
+149,Seto 3rd,0,32,16
+150,Ocean Mage,26,0,0
+150,High Mage Secmeton,25,35,0
+150,Labyrinth Mage,14,12,0
+150,Guardian Sebek,24,26,24
+150,Nitemare,0,48,0
+151,Kaiba,12,13,0
+151,Nitemare,0,0,48
+152,Jono,44,44,40
+152,Villager2,15,26,23
+152,Villager3,14,18,17
+152,Seto,0,21,0
+152,Shadi,0,44,1
+152,Isis,44,64,56
+152,Jono 2nd,44,46,1
+152,Ocean Mage,34,38,1
+152,Forest Mage,24,22,0
+152,Labyrinth Mage,14,14,16
+152,Duel Master K,14,18,16
+153,Villager1,12,0,0
+153,Montain Mage,11,10,8
+154,Jono,44,44,40
+154,Villager2,15,26,23
+154,Villager3,14,18,17
+154,Seto,0,21,0
+154,Heishin,22,28,1
+154,Bandit Keith,28,40,36
+154,Shadi,12,12,1
+154,Jono 2nd,44,46,1
+154,Ocean Mage,12,12,1
+154,Forest Mage,24,22,0
+154,Labyrinth Mage,14,14,16
+154,Heishin 2nd,22,28,1
+154,Duel Master K,14,18,16
+155,Villager3,14,18,17
+155,Rex Raptor,18,19,16
+155,Pegasus,36,38,1
+155,Desert Mage,16,18,16
+155,High Mage Martis,12,12,12
+155,Darknite,22,24,1
+155,Duel Master K,14,18,16
+156,Rex Raptor,18,19,16
+156,Shadi,12,12,1
+156,Ocean Mage,12,12,1
+156,Desert Mage,16,18,16
+156,Seto 2nd,16,18,2
+157,Seto,120,42,0
+157,Weevil Underwood,10,26,1
+157,Shadi,12,12,1
+157,Ocean Mage,12,12,1
+157,Forest Mage,44,42,0
+157,High Mage Anubisius,22,22,1
+158,Seto,0,42,0
+158,Rex Raptor,18,19,16
+158,Weevil Underwood,10,26,1
+158,Shadi,12,12,1
+158,Ocean Mage,12,12,1
+158,Forest Mage,44,42,0
+158,High Mage Anubisius,22,22,1
+158,Desert Mage,16,18,16
+159,Seto,0,21,0
+159,Shadi,12,12,0
+159,Pegasus,36,38,1
+159,Ocean Mage,12,12,1
+159,Forest Mage,20,22,0
+160,Rex Raptor,18,19,16
+160,Weevil Underwood,0,0,50
+160,Shadi,12,12,0
+160,Pegasus,0,0,48
+160,Ocean Mage,12,12,1
+160,Desert Mage,16,18,16
+160,Seto 2nd,16,18,30
+161,Rex Raptor,18,19,16
+161,Weevil Underwood,0,0,50
+161,Shadi,12,12,0
+161,Pegasus,0,0,48
+161,Ocean Mage,12,12,1
+161,Desert Mage,16,18,16
+161,Seto 2nd,16,18,30
+162,Villager2,15,26,0
+162,Villager3,14,18,0
+162,Mage Soldier,22,24,1
+162,High Mage Martis,12,12,12
+162,Labyrinth Mage,14,14,12
+162,Guardian Neku,10,21,1
+162,Seto 3rd,22,32,0
+162,Duel Master K,14,18,0
+163,Kaiba,12,13,0
+163,High Mage Atenza,0,0,25
+164,Villager2,15,0,0
+164,Weevil Underwood,22,26,0
+164,Mage Soldier,22,24,0
+164,High Mage Anubisius,22,22,1
+164,High Mage Martis,12,12,12
+164,Labyrinth Mage,14,14,12
+164,Guardian Neku,10,21,1
+164,Seto 3rd,22,32,0
+165,Villager1,12,0,0
+165,Montain Mage,11,12,8
+166,Weevil Underwood,22,26,0
+166,Mage Soldier,22,24,0
+166,High Mage Anubisius,22,22,1
+166,Seto 2nd,16,0,0
+166,Guardian Neku,20,21,1
+167,Simon Muran,52,56,1
+167,Teana,180,180,1
+167,Villager1,74,76,60
+167,Villager2,15,26,23
+167,Villager3,14,18,17
+167,Teana 2nd,100,182,1
+167,Montain Mage,72,74,0
+167,Duel Master K,14,18,16
+168,Mai Valentine,30,40,0
+168,Pegasus,36,0,0
+168,Isis,50,0,0
+168,Kaiba,80,0,0
+168,Mage Soldier,22,24,0
+168,High Mage Atenza,25,27,1
+168,High Mage Kepura,24,40,48
+168,Seto 2nd,0,0,48
+168,Guardian Neku,20,21,1
+168,Darknite,22,24,1
+168,Nitemare,1,48,0
+169,Villager2,15,26,0
+169,Villager3,14,18,0
+169,Mage Soldier,22,24,1
+169,High Mage Martis,25,26,25
+169,Labyrinth Mage,14,14,12
+169,Guardian Neku,20,21,1
+169,Seto 3rd,22,32,0
+169,Duel Master K,0,18,0
+170,Mai Valentine,30,0,0
+170,Bandit Keith,30,0,0
+170,Shadi,0,0,80
+170,Yami Bakura,50,0,0
+170,Mage Soldier,24,0,0
+170,High Mage Secmeton,25,33,0
+170,High Mage Atenza,25,27,1
+170,Guardian Sebek,24,26,24
+170,Guardian Neku,20,21,1
+171,Villager2,15,0,0
+171,Villager3,14,0,0
+171,Weevil Underwood,22,26,0
+171,Mage Soldier,22,24,0
+171,High Mage Anubisius,22,22,1
+171,High Mage Martis,12,12,12
+171,Labyrinth Mage,14,14,12
+171,Guardian Neku,20,21,1
+171,Seto 3rd,22,32,0
+171,Duel Master K,14,0,0
+172,Villager2,15,26,0
+172,Villager3,13,18,0
+172,High Mage Martis,12,12,12
+172,Labyrinth Mage,14,14,12
+172,Seto 2nd,16,0,48
+172,Duel Master K,13,18,0
+173,Rex Raptor,18,19,16
+173,Shadi,12,12,0
+173,Mage Soldier,22,24,1
+173,Ocean Mage,12,12,1
+173,Desert Mage,16,18,16
+173,High Mage Martis,25,26,25
+173,Guardian Neku,20,21,1
+173,Seto 3rd,22,32,0
+174,Jono,44,44,40
+174,Seto,0,21,0
+174,Heishin,20,28,1
+174,Yami Bakura,46,48,40
+174,Jono 2nd,44,46,1
+174,High Mage Secmeton,25,33,0
+174,Forest Mage,20,22,0
+174,High Mage Martis,12,12,12
+174,Heishin 2nd,20,28,0
+175,Rex Raptor,18,19,16
+175,Mage Soldier,22,24,0
+175,Desert Mage,16,18,16
+175,High Mage Martis,25,26,25
+175,Guardian Neku,20,21,1
+175,Seto 3rd,22,32,0
+176,Seto,0,38,0
+176,Rex Raptor,18,19,16
+176,Shadi,12,12,0
+176,Ocean Mage,12,12,1
+176,Forest Mage,20,42,0
+176,Desert Mage,16,18,16
+177,Villager2,15,26,23
+177,Villager3,28,24,26
+177,Rex Raptor,18,19,16
+177,Shadi,24,24,0
+177,Isis,44,64,56
+177,Ocean Mage,24,24,1
+177,Desert Mage,16,18,16
+177,High Mage Martis,12,12,12
+177,Labyrinth Mage,14,14,16
+177,Nitemare,1,40,0
+177,Duel Master K,28,24,26
+178,Villager3,13,18,16
+178,Seto,136,0,0
+178,Rex Raptor,18,19,16
+178,Mage Soldier,22,24,1
+178,Desert Mage,16,18,16
+178,High Mage Martis,25,26,25
+178,Guardian Neku,20,21,1
+178,Seto 3rd,22,32,0
+178,Duel Master K,13,18,16
+179,Seto,0,21,0
+179,Heishin,10,28,1
+179,Shadi,12,12,0
+179,Yami Bakura,46,48,40
+179,Ocean Mage,12,12,0
+179,High Mage Secmeton,25,33,0
+179,Forest Mage,20,22,0
+179,High Mage Martis,12,12,12
+179,Heishin 2nd,10,28,0
+180,Villager3,13,18,16
+180,Seto,0,21,0
+180,Rex Raptor,18,19,16
+180,Weevil Underwood,20,26,1
+180,Forest Mage,20,22,0
+180,High Mage Anubisius,22,22,1
+180,Desert Mage,16,18,16
+180,High Mage Martis,12,12,12
+180,Duel Master K,13,18,0
+181,Villager2,15,26,0
+181,Villager3,13,18,0
+181,Mage Soldier,22,24,1
+181,High Mage Martis,25,26,25
+181,Labyrinth Mage,14,14,14
+181,Guardian Neku,20,21,1
+181,Seto 3rd,22,28,0
+181,Duel Master K,13,18,0
+182,Jono,44,44,40
+182,Seto,0,21,0
+182,Shadi,12,12,0
+182,Jono 2nd,44,46,1
+182,Ocean Mage,12,12,0
+182,Forest Mage,20,22,0
+182,Seto 2nd,16,16,12
+183,Seto,0,21,0
+183,Heishin,0,28,1
+183,Rex Raptor,18,19,16
+183,Shadi,12,12,0
+183,Yami Bakura,46,48,40
+183,Ocean Mage,12,12,0
+183,High Mage Secmeton,25,10,0
+183,Forest Mage,20,22,0
+183,Desert Mage,16,18,16
+183,High Mage Martis,12,12,12
+183,Heishin 2nd,10,28,0
+184,Heishin,0,28,1
+184,Rex Raptor,18,19,16
+184,Shadi,12,12,0
+184,Yami Bakura,46,48,40
+184,Ocean Mage,12,12,0
+184,High Mage Secmeton,25,10,0
+184,Desert Mage,16,18,16
+184,High Mage Martis,12,12,12
+184,Heishin 2nd,0,28,0
+185,Jono,44,44,40
+185,Seto,0,21,0
+185,Jono 2nd,44,46,1
+185,Forest Mage,20,22,0
+185,Seto 2nd,16,18,2
+186,Weevil Underwood,22,26,0
+186,Mai Valentine,32,80,90
+186,Pegasus,36,40,0
+186,Mage Soldier,22,24,0
+186,High Mage Anubisius,22,22,1
+186,High Mage Atenza,55,56,1
+186,Guardian Neku,20,21,1
+186,Darknite,22,24,1
+187,Rex Raptor,16,19,16
+187,Shadi,12,12,0
+187,Pegasus,36,38,1
+187,Ocean Mage,10,12,0
+187,Desert Mage,16,18,16
+188,Rex Raptor,18,19,16
+188,Pegasus,20,38,1
+188,Desert Mage,16,18,16
+188,High Mage Martis,12,12,12
+188,Darknite,22,24,1
+189,Rex Raptor,18,19,16
+189,Shadi,12,12,0
+189,Pegasus,20,38,1
+189,Ocean Mage,10,12,0
+189,Desert Mage,16,18,16
+189,High Mage Martis,12,12,12
+189,Darknite,22,24,1
+190,Villager3,13,18,16
+190,Heishin,0,28,1
+190,Rex Raptor,16,19,16
+190,Yami Bakura,46,48,40
+190,High Mage Secmeton,25,33,0
+190,Desert Mage,16,18,16
+190,High Mage Martis,25,26,25
+190,Heishin 2nd,20,28,0
+190,Duel Master K,13,18,0
+191,Jono,44,44,40
+191,Villager2,15,26,23
+191,Villager3,13,18,16
+191,Seto,136,21,18
+191,Shadi,12,12,0
+191,Jono 2nd,44,46,1
+191,Ocean Mage,10,12,1
+191,Forest Mage,20,22,0
+191,Labyrinth Mage,14,14,13
+191,Duel Master K,13,18,16
+192,Simon Muran,52,56,1
+192,Villager1,74,76,60
+192,Yami Bakura,46,48,40
+192,Montain Mage,72,74,56
+192,Guardian Neku,0,0,32
+193,Weevil Underwood,22,26,0
+193,Shadi,24,0,0
+193,Isis,44,64,0
+193,Mage Soldier,22,24,0
+193,Ocean Mage,22,24,1
+193,High Mage Anubisius,22,22,1
+193,Labyrinth Mage,14,14,13
+193,Guardian Neku,14,21,1
+193,Nitemare,1,40,0
+194,Weevil Underwood,22,26,0
+194,Mage Soldier,44,48,0
+194,High Mage Anubisius,22,22,1
+194,High Mage Martis,12,12,12
+194,Guardian Neku,24,42,48
+194,Seto 3rd,22,28,0
+195,Seto,0,21,0
+195,Rex Raptor,18,19,16
+195,Shadi,12,12,0
+195,Ocean Mage,10,12,0
+195,Forest Mage,20,22,0
+195,Desert Mage,16,18,16
+195,Seto 2nd,16,18,2
+196,Villager2,30,0,0
+196,Villager3,28,0,0
+196,Weevil Underwood,12,26,0
+196,Shadi,24,0,0
+196,Isis,44,64,0
+196,Ocean Mage,22,24,0
+196,High Mage Anubisius,22,22,1
+196,Labyrinth Mage,28,30,28
+196,Guardian Neku,0,0,48
+196,Nitemare,1,40,0
+196,Duel Master K,28,0,0
+197,Simon Muran,52,56,1
+197,Jono,44,44,40
+197,Villager2,15,26,23
+197,Villager3,13,18,16
+197,Bandit Keith,28,40,36
+197,Jono 2nd,44,46,1
+197,Duel Master K,13,18,16
+198,Seto,0,21,0
+198,Shadi,12,12,0
+198,Yami Bakura,46,48,40
+198,Ocean Mage,10,12,0
+198,High Mage Secmeton,25,33,0
+198,Forest Mage,20,22,0
+199,Villager2,15,26,23
+199,Villager3,13,18,16
+199,Rex Raptor,18,19,16
+199,Shadi,20,20,0
+199,Isis,44,64,56
+199,Ocean Mage,22,24,1
+199,Desert Mage,16,18,16
+199,High Mage Martis,12,12,12
+199,Labyrinth Mage,14,14,13
+199,Guardian Neku,0,0,48
+199,Nitemare,0,40,0
+199,Duel Master K,13,18,16
+200,Seto,156,21,0
+200,Shadi,12,12,0
+200,Pegasus,36,38,0
+200,Isis,44,64,56
+200,Kaiba,64,84,0
+200,Ocean Mage,10,12,0
+200,Forest Mage,20,22,0
+200,High Mage Kepura,30,40,48
+200,Darknite,22,24,1
+200,Nitemare,0,40,0
+201,Villager2,15,0,0
+201,Villager3,13,0,0
+201,Weevil Underwood,12,26,0
+201,Pegasus,36,40,0
+201,High Mage Anubisius,22,22,1
+201,Labyrinth Mage,14,14,13
+201,Darknite,22,24,1
+201,Duel Master K,13,0,0
+202,Simon Muran,52,56,1
+202,Jono,44,44,40
+202,Seto,0,21,0
+202,Pegasus,36,38,0
+202,Jono 2nd,44,46,1
+202,Forest Mage,20,22,0
+203,Villager2,15,26,23
+203,Villager3,13,18,16
+203,Seto,20,21,0
+203,Heishin,20,28,1
+203,Rex Raptor,16,19,16
+203,Weevil Underwood,0,0,32
+203,Bandit Keith,28,40,36
+203,Shadi,12,12,0
+203,Ocean Mage,10,12,0
+203,Forest Mage,20,22,0
+203,Desert Mage,16,18,16
+203,Labyrinth Mage,14,14,13
+203,Heishin 2nd,20,28,1
+203,Duel Master K,13,18,16
+204,Kaiba,0,0,34
+204,High Mage Secmeton,25,35,0
+204,High Mage Martis,12,12,0
+204,Guardian Sebek,24,26,24
+204,Guardian Neku,20,21,1
+204,Seto 3rd,0,28,0
+204,Nitemare,32,0,48
+205,Villager2,15,26,23
+205,Villager3,13,18,16
+205,Rex Raptor,18,19,16
+205,Shadi,20,20,0
+205,Isis,50,58,54
+205,Ocean Mage,22,24,1
+205,Desert Mage,16,18,16
+205,High Mage Martis,12,12,12
+205,Labyrinth Mage,14,14,13
+205,Nitemare,0,38,0
+205,Duel Master K,13,18,16
+206,Villager2,15,26,23
+206,Villager3,13,18,16
+206,Rex Raptor,18,19,16
+206,Shadi,32,44,0
+206,Isis,50,58,54
+206,Ocean Mage,34,38,1
+206,Desert Mage,16,18,16
+206,High Mage Martis,12,12,12
+206,Labyrinth Mage,14,14,13
+206,Nitemare,0,38,0
+206,Duel Master K,13,18,16
+207,Jono,44,44,40
+207,Seto,0,21,0
+207,Mai Valentine,16,80,90
+207,Pegasus,36,38,0
+207,Jono 2nd,44,46,1
+207,Forest Mage,20,22,0
+207,High Mage Atenza,52,56,1
+208,Rex Raptor,16,19,16
+208,Shadi,12,12,0
+208,Yami Bakura,46,48,40
+208,Ocean Mage,10,12,0
+208,High Mage Secmeton,25,33,0
+208,Desert Mage,16,18,16
+209,Seto,0,21,0
+209,Rex Raptor,16,19,16
+209,Weevil Underwood,20,26,1
+209,Shadi,12,12,0
+209,Ocean Mage,10,12,0
+209,Forest Mage,20,22,0
+209,High Mage Anubisius,22,22,1
+209,Desert Mage,16,18,16
+210,Jono,44,44,40
+210,Seto,0,41,0
+210,Jono 2nd,44,46,1
+210,Forest Mage,20,42,0
+211,Villager2,15,26,23
+211,Villager3,13,18,16
+211,Seto,136,21,0
+211,Shadi,12,12,0
+211,Ocean Mage,10,12,1
+211,Forest Mage,20,22,0
+211,Labyrinth Mage,14,14,13
+211,Duel Master K,13,18,16
+212,Seto,0,21,0
+212,Shadi,12,12,0
+212,Pegasus,36,38,34
+212,Ocean Mage,10,12,0
+212,Forest Mage,20,22,0
+212,Guardian Neku,0,0,48
+213,Heishin,20,28,1
+213,High Mage Secmeton,52,76,0
+213,High Mage Martis,12,12,0
+213,High Mage Kepura,32,39,0
+213,Seto 2nd,0,0,48
+213,Guardian Sebek,24,26,24
+213,Guardian Neku,0,0,48
+213,Heishin 2nd,20,28,1
+214,Jono,44,44,40
+214,Seto,0,21,0
+214,Shadi,12,12,0
+214,Jono 2nd,44,46,1
+214,Ocean Mage,10,12,0
+214,Forest Mage,20,22,0
+214,Seto 2nd,16,18,2
+214,Guardian Neku,0,0,48
+215,Villager2,15,26,23
+215,Villager3,28,36,26
+215,Heishin,20,28,1
+215,Rex Raptor,18,19,16
+215,Bandit Keith,28,40,36
+215,Desert Mage,16,18,16
+215,High Mage Martis,12,12,12
+215,Labyrinth Mage,14,14,13
+215,Guardian Sebek,1,26,24
+215,Guardian Neku,0,0,48
+215,Heishin 2nd,20,28,1
+215,Duel Master K,28,36,26
+216,Weevil Underwood,0,0,32
+216,Yami Bakura,10,10,6
+216,Kaiba,12,13,0
+216,Guardian Neku,0,0,48
+217,High Mage Atenza,6,0,0
+218,Rex Raptor,52,52,48
+218,Shadi,12,12,0
+218,Ocean Mage,10,12,0
+218,Desert Mage,22,48,52
+218,High Mage Martis,12,12,12
+218,Nitemare,0,0,32
+219,Villager2,15,26,0
+219,Villager3,13,18,0
+219,Pegasus,36,38,0
+219,Labyrinth Mage,14,14,13
+219,Darknite,22,24,1
+219,Duel Master K,13,18,0
+220,Villager2,15,0,0
+220,Heishin,20,28,1
+220,Weevil Underwood,22,26,0
+220,Yami Bakura,48,40,0
+220,High Mage Secmeton,25,33,0
+220,High Mage Anubisius,22,22,1
+220,High Mage Martis,12,12,12
+220,Labyrinth Mage,14,14,13
+220,Heishin 2nd,20,28,1
+221,Villager2,15,0,0
+221,Villager3,13,0,0
+221,Weevil Underwood,22,26,0
+221,High Mage Anubisius,22,22,1
+221,Labyrinth Mage,14,14,13
+221,Duel Master K,13,0,0
+222,Seto,0,21,0
+222,Rex Raptor,16,19,16
+222,Shadi,12,12,0
+222,Mage Soldier,22,24,1
+222,Ocean Mage,10,12,0
+222,Forest Mage,20,22,0
+222,Desert Mage,16,18,16
+222,High Mage Martis,12,12,12
+222,Seto 3rd,0,28,0
+223,Heishin,24,20,0
+223,Ocean Mage,24,0,52
+223,Labyrinth Mage,16,0,0
+223,Seto 2nd,16,18,0
+223,Heishin 2nd,24,20,0
+223,Seto 3rd,24,24,0
+223,Nitemare,20,66,48
+224,Rex Raptor,16,19,16
+224,Shadi,12,12,0
+224,Ocean Mage,10,12,1
+224,Desert Mage,16,18,16
+224,High Mage Martis,12,12,12
+224,Seto 2nd,16,18,2
+225,Villager2,15,0,0
+225,Villager3,13,0,0
+225,Weevil Underwood,22,26,0
+225,Kaiba,0,0,48
+225,High Mage Anubisius,22,22,1
+225,Labyrinth Mage,14,14,13
+225,Seto 2nd,16,18,2
+225,Duel Master K,13,0,0
+226,Rex Raptor,16,19,16
+226,Desert Mage,16,18,16
+226,High Mage Martis,12,12,12
+226,Seto 2nd,16,18,2
+227,Villager2,15,26,23
+227,Villager3,13,18,16
+227,Seto,0,21,0
+227,Shadi,32,44,0
+227,Isis,50,58,54
+227,Ocean Mage,34,38,1
+227,Forest Mage,20,22,0
+227,Labyrinth Mage,13,14,13
+227,Darknite,0,0,48
+227,Duel Master K,13,18,16
+228,Villager2,15,26,23
+228,Villager3,28,36,26
+228,Heishin,22,28,1
+228,Bandit Keith,28,40,36
+228,High Mage Martis,12,12,10
+228,Labyrinth Mage,13,14,13
+228,Guardian Sebek,24,26,24
+228,Heishin 2nd,22,28,1
+228,Duel Master K,28,36,26
+229,Seto,0,21,0
+229,Shadi,12,12,0
+229,Yami Bakura,46,48,40
+229,Ocean Mage,10,12,1
+229,High Mage Secmeton,25,33,0
+229,Forest Mage,20,22,0
+230,Mai Valentine,30,40,0
+230,Shadi,24,0,0
+230,Isis,50,0,0
+230,Mage Soldier,22,24,0
+230,Ocean Mage,22,24,1
+230,High Mage Atenza,26,27,1
+230,Guardian Neku,20,21,1
+230,Nitemare,1,38,0
+231,Villager2,15,26,0
+231,Villager3,13,18,0
+231,Mage Soldier,0,0,64
+231,High Mage Martis,12,12,10
+231,Labyrinth Mage,14,14,13
+231,Seto 2nd,16,18,2
+231,Duel Master K,13,18,0
+232,Seto,0,21,0
+232,Rex Raptor,16,19,16
+232,Shadi,12,12,1
+232,Mage Soldier,22,24,1
+232,Ocean Mage,10,12,0
+232,Forest Mage,20,22,0
+232,Desert Mage,16,18,16
+232,High Mage Martis,12,12,10
+232,Seto 3rd,22,28,0
+233,Villager2,15,0,0
+233,Weevil Underwood,22,26,0
+233,Mage Soldier,44,48,1
+233,High Mage Anubisius,22,22,1
+233,High Mage Martis,12,12,10
+233,Labyrinth Mage,14,14,13
+233,Guardian Neku,42,42,0
+233,Seto 3rd,22,28,0
+234,Villager1,12,0,0
+234,Kaiba,0,0,48
+234,Montain Mage,0,12,8
+234,Nitemare,28,0,0
+235,Meadow Mage,20,20,0
+236,Villager2,15,0,0
+236,Villager3,13,0,0
+236,Weevil Underwood,22,26,0
+236,Mage Soldier,0,0,52
+236,High Mage Anubisius,22,22,1
+236,Labyrinth Mage,14,14,13
+236,Seto 2nd,16,18,2
+236,Duel Master K,13,0,0
+237,Simon Muran,52,56,1
+237,Jono,44,44,40
+237,Villager2,15,26,23
+237,Villager3,13,18,16
+237,Seto,0,21,0
+237,Heishin,22,28,1
+237,Jono 2nd,0,46,1
+237,Forest Mage,20,22,0
+237,Labyrinth Mage,14,14,13
+237,Heishin 2nd,22,28,1
+237,Duel Master K,13,18,16
+238,Simon Muran,12,14,1
+238,Villager2,10,12,12
+238,Forest Mage,0,0,52
+238,Meadow Mage,20,22,20
+238,Heishin 2nd,0,0,52
+239,Rex Raptor,16,19,16
+239,Shadi,12,12,0
+239,Ocean Mage,10,12,0
+239,Desert Mage,16,18,16
+239,High Mage Martis,12,12,10
+239,Seto 2nd,16,18,2
+239,Heishin 2nd,0,0,52
+239,Darknite,0,0,32
+240,Rex Raptor,18,19,16
+240,Shadi,12,12,0
+240,Mage Soldier,22,24,1
+240,Ocean Mage,10,12,0
+240,Desert Mage,16,18,16
+240,High Mage Martis,12,12,10
+240,Heishin 2nd,0,0,52
+240,Seto 3rd,0,28,16
+241,Villager1,12,0,0
+241,Montain Mage,0,12,8
+241,Heishin 2nd,0,0,52
+242,Jono,44,44,42
+242,Seto,0,21,0
+242,Shadi,12,12,1
+242,Mage Soldier,22,24,1
+242,Jono 2nd,42,44,1
+242,Ocean Mage,10,12,0
+242,Forest Mage,20,22,0
+242,High Mage Martis,12,12,10
+242,Seto 3rd,22,28,16
+243,Villager2,15,26,23
+243,Villager3,13,18,16
+243,Rex Raptor,18,19,16
+243,Shadi,32,44,1
+243,Isis,50,58,54
+243,Ocean Mage,34,40,1
+243,Desert Mage,16,18,16
+243,High Mage Martis,12,12,10
+243,Labyrinth Mage,12,14,13
+243,Heishin 2nd,0,0,52
+243,Nitemare,0,38,0
+243,Duel Master K,13,18,16
+244,Villager2,15,26,23
+244,Villager3,28,36,26
+244,Heishin,22,28,1
+244,High Mage Martis,12,12,10
+244,Labyrinth Mage,12,14,13
+244,Heishin 2nd,22,28,52
+244,Duel Master K,28,36,26
+245,Jono,44,44,42
+245,Seto,0,22,0
+245,Shadi,12,12,1
+245,Mage Soldier,22,24,1
+245,Jono 2nd,42,44,1
+245,Ocean Mage,10,12,0
+245,Forest Mage,20,22,0
+245,High Mage Martis,12,12,10
+245,Heishin 2nd,0,0,52
+245,Seto 3rd,0,28,16
+246,Villager2,15,0,0
+246,Villager3,13,0,0
+246,Pegasus,36,40,0
+246,Labyrinth Mage,12,14,13
+246,Darknite,22,24,1
+246,Duel Master K,13,0,0
+247,Rex Raptor,18,19,16
+247,Shadi,20,22,1
+247,Isis,50,58,54
+247,Ocean Mage,22,24,1
+247,Desert Mage,16,18,16
+247,High Mage Martis,12,12,10
+247,Darknite,0,0,70
+247,Nitemare,0,38,0
+248,Villager2,15,0,0
+248,Villager3,13,0,0
+248,Weevil Underwood,22,26,0
+248,Pegasus,36,40,0
+248,High Mage Anubisius,22,22,1
+248,Labyrinth Mage,12,14,13
+248,Darknite,22,22,1
+248,Duel Master K,13,0,0
+249,Isis,10,10,10
+249,Kaiba,12,13,1
+250,Villager2,15,26,0
+250,Villager3,13,18,0
+250,High Mage Martis,12,12,10
+250,Labyrinth Mage,12,14,13
+250,Seto 2nd,16,18,2
+250,Duel Master K,13,18,0
+251,Villager2,15,0,0
+251,Shadi,24,0,0
+251,Isis,50,58,0
+251,Ocean Mage,22,24,1
+251,Labyrinth Mage,14,14,13
+251,Nitemare,0,38,0
+251,Duel Master K,13,0,0
+252,Villager3,26,0,0
+252,Pegasus,9,0,0
+252,Teana 2nd,10,0,0
+252,Meadow Mage,5,0,0
+252,Nitemare,5,0,0
+253,Villager3,0,18,16
+253,Heishin,22,28,1
+253,Rex Raptor,18,19,16
+253,Yami Bakura,46,48,40
+253,High Mage Secmeton,25,33,0
+253,Desert Mage,16,18,16
+253,High Mage Martis,24,24,20
+253,Heishin 2nd,22,28,0
+253,Duel Master K,13,18,16
+254,Seto,0,22,0
+254,Shadi,12,12,1
+254,Mage Soldier,22,24,58
+254,Ocean Mage,10,12,0
+254,Forest Mage,20,22,0
+254,High Mage Martis,12,12,10
+254,Seto 3rd,22,28,20
+255,Weevil Underwood,22,26,0
+255,Pegasus,34,38,0
+255,Mage Soldier,22,24,58
+255,High Mage Anubisius,22,22,1
+255,Guardian Neku,20,21,1
+255,Darknite,22,22,1
+256,Villager2,15,0,0
+256,Villager3,13,0,0
+256,Weevil Underwood,22,26,0
+256,High Mage Anubisius,22,22,1
+256,Labyrinth Mage,14,14,13
+256,Seto 2nd,16,18,2
+256,Duel Master K,13,0,0
+257,Villager2,30,26,0
+257,Villager3,28,36,0
+257,Heishin,22,28,1
+257,High Mage Atenza,0,0,56
+257,High Mage Martis,12,12,10
+257,Labyrinth Mage,18,30,28
+257,Heishin 2nd,22,28,0
+257,Duel Master K,28,36,0
+258,Villager2,30,0,0
+258,Villager3,28,0,0
+258,Shadi,24,0,0
+258,Isis,50,58,0
+258,Ocean Mage,22,24,1
+258,High Mage Atenza,0,0,56
+258,Labyrinth Mage,18,30,28
+258,Nitemare,0,38,0
+258,Duel Master K,28,0,0
+259,Villager2,15,26,23
+259,Heishin,22,28,1
+259,Weevil Underwood,22,26,0
+259,Yami Bakura,46,44,0
+259,High Mage Secmeton,25,33,0
+259,High Mage Anubisius,22,22,1
+259,High Mage Martis,12,12,10
+259,Labyrinth Mage,14,14,13
+259,Heishin 2nd,22,28,0
+260,Villager3,13,18,16
+260,Yami Bakura,46,48,40
+260,High Mage Secmeton,25,33,0
+260,High Mage Martis,12,12,10
+260,Duel Master K,13,18,16
+261,Seto,0,22,0
+261,Shadi,12,12,0
+261,Mage Soldier,22,24,1
+261,Ocean Mage,10,12,0
+261,Forest Mage,20,22,0
+261,High Mage Martis,12,12,10
+261,Seto 3rd,22,28,0
+262,Villager2,15,26,23
+262,Villager3,13,18,0
+262,Labyrinth Mage,14,14,13
+262,Seto 2nd,16,18,12
+262,Duel Master K,13,18,0
+263,Villager2,30,0,0
+263,Villager3,28,36,0
+263,Heishin,22,28,1
+263,High Mage Kepura,0,0,34
+263,Labyrinth Mage,28,30,28
+263,Heishin 2nd,22,28,0
+263,Duel Master K,28,36,0
+264,Villager3,13,18,16
+264,Rex Raptor,18,19,16
+264,Yami Bakura,46,48,40
+264,Isis,0,0,36
+264,High Mage Secmeton,25,33,0
+264,Desert Mage,16,18,16
+264,High Mage Martis,12,12,10
+264,Duel Master K,13,18,16
+265,Villager2,15,26,23
+265,Villager3,13,18,16
+265,Rex Raptor,18,19,16
+265,Shadi,32,44,1
+265,Isis,50,58,54
+265,Ocean Mage,34,40,1
+265,Desert Mage,16,18,16
+265,Labyrinth Mage,14,14,13
+265,Duel Master K,13,18,16
+266,Rex Raptor,18,19,16
+266,Shadi,12,12,1
+266,Ocean Mage,10,12,0
+266,Desert Mage,16,18,16
+266,High Mage Martis,12,12,10
+266,Seto 2nd,16,18,12
+266,Darknite,0,0,30
+267,Heishin,0,0,44
+267,Rex Raptor,18,19,16
+267,Shadi,12,12,1
+267,Ocean Mage,10,12,0
+267,Desert Mage,16,18,16
+267,Seto 2nd,16,18,12
+268,Jono,44,44,42
+268,Seto,0,22,0
+268,Heishin,22,28,1
+268,Shadi,12,12,1
+268,Yami Bakura,46,48,40
+268,Jono 2nd,42,44,1
+268,Ocean Mage,10,12,0
+268,High Mage Secmeton,25,33,0
+268,Forest Mage,0,22,0
+268,High Mage Martis,12,12,10
+268,Heishin 2nd,22,28,1
+269,Villager2,15,26,0
+269,Villager3,13,18,0
+269,Mage Soldier,22,24,1
+269,High Mage Martis,24,24,20
+269,Labyrinth Mage,14,14,13
+269,Guardian Neku,20,21,1
+269,Seto 3rd,22,28,20
+269,Duel Master K,13,18,0
+270,Villager2,15,26,23
+270,Villager3,28,36,26
+270,Shadi,20,28,1
+270,Isis,50,58,54
+270,Ocean Mage,22,24,0
+270,High Mage Martis,12,12,10
+270,Labyrinth Mage,13,14,13
+270,Nitemare,1,38,0
+270,Duel Master K,28,36,26
+271,Rex Raptor,16,19,16
+271,Shadi,12,12,1
+271,Mage Soldier,22,24,1
+271,Ocean Mage,10,12,0
+271,Desert Mage,16,18,16
+271,High Mage Martis,12,12,10
+271,Seto 3rd,22,28,72
+272,Villager2,15,0,0
+272,Villager3,13,0,0
+272,Weevil Underwood,22,26,0
+272,Mai Valentine,62,80,88
+272,Pegasus,36,38,0
+272,High Mage Anubisius,22,22,1
+272,High Mage Atenza,55,56,1
+272,Labyrinth Mage,13,14,13
+272,Darknite,22,22,1
+272,Duel Master K,13,0,0
+273,Villager2,15,0,0
+273,Villager3,13,0,0
+273,Weevil Underwood,22,26,0
+273,Forest Mage,20,22,64
+273,High Mage Anubisius,22,22,1
+273,Labyrinth Mage,13,14,13
+273,Duel Master K,13,0,0
+274,Villager2,15,0,0
+274,Villager3,13,0,0
+274,Weevil Underwood,22,26,0
+274,Kaiba,0,0,84
+274,Forest Mage,20,22,64
+274,High Mage Anubisius,22,22,1
+274,Labyrinth Mage,0,14,13
+274,Duel Master K,13,0,0
+275,Bandit Keith,8,8,8
+275,Kaiba,12,13,1
+275,Labyrinth Mage,7,0,0
+276,Villager2,15,26,0
+276,Villager3,13,18,0
+276,Yami Bakura,18,48,40
+276,High Mage Secmeton,25,33,0
+276,High Mage Martis,12,12,10
+276,Labyrinth Mage,13,14,13
+276,Duel Master K,13,18,0
+277,Villager1,64,0,0
+277,Rex Raptor,16,19,16
+277,Shadi,12,12,12
+277,Mage Soldier,22,24,1
+277,Ocean Mage,10,12,0
+277,Desert Mage,16,18,0
+277,High Mage Martis,24,24,20
+277,Guardian Neku,10,21,1
+277,Seto 3rd,0,28,20
+278,Weevil Underwood,15,0,52
+278,Forest Mage,20,0,64
+279,Simon Muran,0,0,115
+279,Villager3,13,18,16
+279,Mage Soldier,22,24,0
+279,High Mage Martis,24,24,20
+279,Guardian Neku,10,21,1
+279,Seto 3rd,0,28,20
+279,Duel Master K,13,18,16
+280,Simon Muran,0,0,115
+280,Villager2,15,0,0
+280,Weevil Underwood,22,26,0
+280,High Mage Anubisius,22,22,1
+280,Labyrinth Mage,13,14,13
+280,Seto 2nd,16,18,12
+280,Nitemare,20,0,0
+281,Kaiba,12,13,1
+281,Mage Soldier,6,8,0
+282,Villager3,13,18,16
+282,Rex Raptor,16,19,16
+282,Pegasus,36,38,0
+282,Desert Mage,16,18,0
+282,High Mage Martis,12,12,10
+282,Darknite,22,22,1
+282,Duel Master K,13,18,16
+283,Villager3,13,18,16
+283,Rex Raptor,16,19,16
+283,Bandit Keith,28,40,36
+283,Teana 2nd,0,0,14
+283,Desert Mage,16,18,0
+283,High Mage Martis,12,12,10
+283,Guardian Sebek,24,26,24
+283,Duel Master K,13,18,16
+284,Yami Bakura,10,0,0
+284,Pegasus,4,0,0
+284,Guardian Neku,20,0,0
+284,Heishin 2nd,0,3,0
+285,Seto,0,22,32
+285,Shadi,32,44,0
+285,Ocean Mage,34,40,1
+285,Forest Mage,20,22,0
+286,High Mage Secmeton,25,0,0
+286,High Mage Kepura,32,39,0
+286,Guardian Sebek,24,26,24
+287,Yami Bakura,4,10,6
+287,Kaiba,12,13,1
+288,Villager2,10,0,0
+288,Yami Bakura,10,0,0
+288,Pegasus,4,0,0
+288,Mage Soldier,0,0,20
+288,Guardian Neku,20,0,0
+288,Heishin 2nd,0,3,0
+289,Simon Muran,52,56,0
+289,Villager1,74,76,60
+289,Villager2,5,26,23
+289,Villager3,13,18,16
+289,Shadi,20,20,0
+289,Isis,20,58,54
+289,Montain Mage,72,74,56
+289,Duel Master K,13,18,16
+290,Villager2,15,0,0
+290,Villager3,13,0,16
+290,Bandit Keith,0,0,18
+290,Labyrinth Mage,13,14,13
+290,Seto 2nd,16,18,12
+290,Duel Master K,13,0,16
+291,Villager2,15,0,0
+291,Seto,98,0,0
+291,Weevil Underwood,22,26,0
+291,Forest Mage,20,22,64
+291,High Mage Anubisius,22,22,1
+291,Labyrinth Mage,13,14,13
+291,Darknite,0,0,48
+292,Villager2,15,26,23
+292,Villager3,13,18,16
+292,Seto,0,22,0
+292,Rex Raptor,16,19,16
+292,Shadi,32,44,0
+292,Isis,50,58,54
+292,Ocean Mage,15,40,1
+292,Forest Mage,20,22,0
+292,Desert Mage,16,18,16
+292,Labyrinth Mage,0,14,13
+292,Duel Master K,13,18,16
+293,Villager2,15,0,0
+293,Villager3,13,0,0
+293,Weevil Underwood,22,26,0
+293,High Mage Anubisius,22,22,1
+293,Labyrinth Mage,13,14,13
+293,Seto 2nd,16,18,12
+293,Duel Master K,13,0,0
+294,Villager2,15,0,0
+294,Villager3,13,0,0
+294,Seto,20,0,0
+294,Labyrinth Mage,13,14,13
+294,Seto 2nd,16,18,12
+294,Seto 3rd,0,0,48
+294,Duel Master K,13,0,0
+295,Villager3,13,18,16
+295,Mage Soldier,22,24,0
+295,High Mage Martis,24,24,20
+295,Guardian Neku,20,21,1
+295,Seto 3rd,22,28,0
+295,Duel Master K,13,18,16
+296,Villager2,15,26,0
+296,Villager3,13,18,0
+296,Pegasus,28,38,0
+296,Isis,50,58,54
+296,Kaiba,64,84,0
+296,High Mage Atenza,0,0,70
+296,High Mage Martis,12,12,10
+296,High Mage Kepura,30,40,46
+296,Labyrinth Mage,13,14,13
+296,Darknite,22,22,0
+296,Nitemare,1,38,0
+296,Duel Master K,13,18,0
+297,Bandit Keith,8,8,8
+297,Kaiba,12,13,0
+297,Seto 3rd,0,0,48
+298,Villager3,13,18,16
+298,Rex Raptor,12,19,16
+298,Pegasus,36,38,0
+298,Isis,50,58,54
+298,Kaiba,64,84,0
+298,Desert Mage,16,18,16
+298,High Mage Martis,12,12,10
+298,High Mage Kepura,30,40,46
+298,Darknite,22,22,1
+298,Nitemare,1,38,0
+298,Duel Master K,13,18,16
+299,Kaiba,5,0,0
+300,Rex Raptor,12,19,16
+300,Mai Valentine,32,80,48
+300,Shadi,12,12,12
+300,Pegasus,36,38,0
+301,Simon Muran,0,20,0
+301,Jono,0,16,16
+301,Mage Soldier,0,0,72
+301,Jono 2nd,0,0,100
+301,Meadow Mage,0,0,64
+301,High Mage Kepura,0,0,100
+302,Teana,16,16,160
+302,Jono,0,16,16
+302,Seto,0,18,80
+302,Kaiba,0,48,56
+302,Jono 2nd,0,0,100
+302,Teana 2nd,0,0,150
+302,Forest Mage,0,0,52
+302,High Mage Kepura,0,0,100
+302,Seto 2nd,0,0,24
+302,Guardian Neku,0,0,48
+302,Heishin 2nd,0,0,48
+303,Heishin,0,0,30
+303,Mage Soldier,0,50,0
+303,High Mage Martis,0,0,24
+303,High Mage Kepura,0,0,100
+303,Guardian Neku,0,0,30
+303,Heishin 2nd,0,0,40
+303,Seto 3rd,0,0,40
+303,Nitemare,20,35,0
+304,Villager2,0,30,32
+304,Villager3,0,24,32
+304,Heishin,0,0,52
+304,Kaiba,0,0,56
+304,Mage Soldier,0,0,76
+304,Jono 2nd,0,0,100
+304,Labyrinth Mage,0,0,24
+304,Guardian Neku,0,0,48
+304,Heishin 2nd,0,0,48
+304,Duel Master K,0,24,32
+305,Villager2,0,0,32
+305,Weevil Underwood,0,0,60
+305,High Mage Anubisius,0,0,120
+305,Labyrinth Mage,0,0,24
+306,Villager3,0,0,32
+306,Weevil Underwood,0,0,60
+306,High Mage Anubisius,0,0,120
+306,Duel Master K,0,0,32
+307,Teana,0,0,160
+307,Villager1,16,18,16
+307,Mai Valentine,18,26,34
+307,Isis,0,32,36
+307,Teana 2nd,0,0,230
+307,Montain Mage,0,0,32
+307,High Mage Atenza,0,0,48
+308,Villager1,0,0,16
+308,Seto,0,18,80
+308,Heishin,0,0,52
+308,Rex Raptor,0,19,36
+308,Shadi,0,20,24
+308,Ocean Mage,0,0,42
+308,Forest Mage,0,0,90
+308,High Mage Anubisius,0,0,120
+308,Montain Mage,0,0,32
+308,Desert Mage,0,0,26
+308,Seto 2nd,0,0,24
+308,Seto 3rd,0,0,26
+309,Simon Muran,0,0,230
+309,Villager1,0,0,16
+309,Shadi,0,0,24
+309,Mage Soldier,0,0,52
+309,Ocean Mage,0,0,172
+309,High Mage Secmeton,0,0,260
+309,Montain Mage,0,0,32
+310,Jono,0,0,16
+310,Seto,0,0,32
+310,Weevil Underwood,0,0,32
+310,Mage Soldier,0,0,52
+310,Jono 2nd,0,0,100
+310,High Mage Secmeton,0,0,22
+310,Forest Mage,0,0,90
+310,Seto 2nd,0,0,24
+311,Jono,0,0,16
+311,Villager1,0,0,16
+311,Heishin,0,0,52
+311,Yami Bakura,0,32,36
+311,Isis,0,0,32
+311,Jono 2nd,0,0,100
+311,High Mage Secmeton,0,0,260
+311,Montain Mage,0,0,32
+311,Seto 3rd,0,0,25
+311,Nitemare,0,0,52
+311,Duel Master K,0,0,32
+312,Teana,0,0,160
+312,Villager1,0,0,16
+312,Mai Valentine,0,26,34
+312,Yami Bakura,0,0,36
+312,Teana 2nd,0,0,230
+312,High Mage Secmeton,0,0,180
+312,Montain Mage,0,0,32
+312,High Mage Atenza,0,0,48
+313,Teana,0,0,160
+313,Heishin,0,0,52
+313,Mai Valentine,0,0,34
+313,Kaiba,0,0,56
+313,High Mage Secmeton,0,0,260
+313,High Mage Atenza,0,0,80
+313,Meadow Mage,0,0,64
+314,Simon Muran,0,0,230
+314,Heishin,0,0,52
+314,Pegasus,0,0,36
+314,Mage Soldier,0,0,52
+314,High Mage Atenza,0,0,80
+314,Meadow Mage,0,0,64
+314,Seto 2nd,0,0,24
+314,Heishin 2nd,0,0,40
+315,Heishin,0,0,30
+315,Pegasus,0,32,0
+315,Isis,0,32,0
+315,Montain Mage,0,0,32
+315,High Mage Atenza,0,0,30
+315,Seto 2nd,0,0,24
+315,Darknite,0,0,30
+315,Nitemare,0,35,20
+316,Simon Muran,0,0,36
+316,Villager2,0,0,32
+316,Heishin,0,0,52
+316,Mai Valentine,0,60,64
+316,Pegasus,0,0,36
+316,Isis,0,0,64
+316,Teana 2nd,0,0,230
+316,High Mage Atenza,0,0,88
+316,Labyrinth Mage,0,0,12
+316,Darknite,0,0,90
+317,Villager3,0,0,32
+317,Mai Valentine,0,0,72
+317,Isis,0,0,64
+317,High Mage Atenza,0,0,88
+317,Duel Master K,0,0,32
+318,High Mage Secmeton,0,0,42
+318,High Mage Atenza,0,0,52
+318,Darknite,0,0,52
+319,Villager2,0,0,32
+319,Villager3,0,0,32
+319,Seto,0,0,52
+319,Bandit Keith,0,64,64
+319,Isis,0,0,36
+319,Forest Mage,0,0,90
+319,High Mage Anubisius,0,0,120
+319,Labyrinth Mage,0,0,12
+319,Guardian Sebek,0,0,40
+319,Nitemare,0,0,52
+319,Duel Master K,0,0,32
+320,Seto,0,0,52
+320,Heishin,0,0,52
+320,Bandit Keith,0,0,64
+320,Forest Mage,0,0,52
+320,High Mage Kepura,0,0,40
+320,Guardian Sebek,0,0,40
+320,Guardian Neku,0,0,180
+320,Heishin 2nd,0,0,1
+320,Nitemare,20,0,0
+321,Villager2,0,0,32
+321,Villager3,0,0,32
+321,Heishin,0,0,52
+321,Mai Valentine,0,0,64
+321,Isis,0,0,36
+321,Mage Soldier,0,0,52
+321,High Mage Atenza,0,0,32
+321,High Mage Martis,0,0,25
+321,Labyrinth Mage,0,0,24
+321,Guardian Neku,0,0,180
+321,Heishin 2nd,0,0,90
+321,Nitemare,0,0,52
+321,Duel Master K,0,0,32
+322,Simon Muran,0,0,20
+322,Heishin,0,0,52
+322,Bandit Keith,0,0,36
+322,Isis,0,0,36
+322,Guardian Sebek,0,0,20
+322,Heishin 2nd,0,0,90
+323,Simon Muran,0,0,230
+323,Villager1,0,18,16
+323,Heishin,0,0,52
+323,Mai Valentine,0,0,64
+323,Yami Bakura,0,32,40
+323,High Mage Secmeton,0,0,260
+323,Montain Mage,0,0,20
+323,High Mage Martis,0,0,25
+323,Heishin 2nd,0,0,90
+324,Seto,0,0,52
+324,Rex Raptor,0,0,36
+324,Shadi,0,0,24
+324,Ocean Mage,0,0,172
+324,Forest Mage,0,0,20
+324,Desert Mage,0,0,26
+324,Seto 2nd,0,0,24
+324,Seto 3rd,0,0,72
+325,Weevil Underwood,0,0,32
+325,Mai Valentine,0,0,32
+325,Bandit Keith,0,30,36
+325,Pegasus,0,32,0
+325,High Mage Anubisius,0,0,1
+325,High Mage Atenza,0,0,28
+325,Guardian Sebek,0,0,20
+325,Guardian Neku,0,0,20
+325,Darknite,0,0,90
+326,Villager2,0,0,32
+326,Villager3,0,0,32
+326,Rex Raptor,0,0,36
+326,Desert Mage,0,0,26
+326,Labyrinth Mage,0,0,24
+326,Duel Master K,0,0,32
+327,Villager1,0,0,16
+327,Seto,0,0,52
+327,Mai Valentine,0,0,32
+327,Montain Mage,0,0,20
+327,High Mage Atenza,0,0,88
+327,Seto 3rd,0,0,34
+328,Seto,0,0,52
+328,Shadi,0,20,210
+328,Isis,0,0,36
+328,Ocean Mage,0,0,24
+328,Forest Mage,0,0,20
+328,Seto 2nd,0,0,24
+328,Seto 3rd,0,0,50
+329,Pegasus,10,0,40
+329,Kaiba,0,48,56
+329,High Mage Atenza,0,0,100
+329,High Mage Kepura,0,0,40
+329,Seto 3rd,0,0,50
+329,Darknite,0,0,90
+329,Nitemare,0,0,52
+330,Simon Muran,0,0,36
+330,Teana,30,30,160
+330,Villager2,0,0,33
+330,Seto,0,35,42
+330,Weevil Underwood,24,30,60
+330,Pegasus,30,64,120
+330,Mage Soldier,0,0,30
+330,Teana 2nd,38,38,0
+330,Forest Mage,30,30,120
+330,High Mage Anubisius,10,36,120
+330,Darknite,0,0,20
+331,Simon Muran,0,0,36
+331,Villager3,0,0,32
+331,Seto,0,0,42
+331,Heishin,0,0,52
+331,Rex Raptor,34,48,64
+331,Bandit Keith,48,64,32
+331,Isis,30,32,32
+331,Mage Soldier,0,0,30
+331,Desert Mage,32,30,50
+331,High Mage Martis,30,34,32
+331,Guardian Sebek,0,0,40
+331,Heishin 2nd,0,0,48
+331,Darknite,0,0,20
+331,Duel Master K,0,0,32
+332,Simon Muran,0,0,36
+332,Villager1,32,35,32
+332,Seto,0,0,42
+332,Heishin,0,0,52
+332,Rex Raptor,34,48,64
+332,Mai Valentine,40,60,64
+332,Pegasus,0,0,60
+332,Kaiba,0,0,80
+332,Mage Soldier,0,0,30
+332,Jono 2nd,0,0,260
+332,Montain Mage,20,32,36
+332,High Mage Atenza,30,40,90
+332,Desert Mage,32,30,50
+332,Seto 3rd,0,0,48
+332,Darknite,0,0,20
+332,Nitemare,0,0,120
+333,Simon Muran,40,40,36
+333,Jono,25,36,36
+333,Villager2,0,0,33
+333,Seto,0,0,42
+333,Heishin,0,0,52
+333,Kaiba,60,84,80
+333,Mage Soldier,0,0,30
+333,Jono 2nd,16,22,260
+333,Meadow Mage,60,66,64
+333,High Mage Kepura,30,30,80
+333,Darknite,0,0,20
+334,Simon Muran,0,0,36
+334,Villager3,0,0,32
+334,Seto,0,0,42
+334,Heishin,0,0,52
+334,Shadi,28,44,30
+334,Yami Bakura,58,64,64
+334,Pegasus,30,64,60
+334,Isis,30,32,32
+334,Mage Soldier,0,0,30
+334,Ocean Mage,30,30,230
+334,High Mage Secmeton,38,48,106
+334,Darknite,0,0,20
+334,Duel Master K,0,0,32
+335,Simon Muran,0,0,36
+335,Villager2,24,60,33
+335,Villager3,12,48,48
+335,Seto,0,0,42
+335,Heishin,0,0,52
+335,Bandit Keith,48,64,32
+335,Shadi,0,0,30
+335,Pegasus,0,0,60
+335,Mage Soldier,32,50,72
+335,Labyrinth Mage,20,36,36
+335,Guardian Sebek,0,0,40
+335,Guardian Neku,0,0,52
+335,Darknite,0,0,20
+335,Duel Master K,36,48,32
+336,Simon Muran,0,0,20
+336,Teana,0,0,19
+336,Jono,0,0,16
+336,Villager1,0,0,18
+336,Villager2,0,0,32
+336,Villager3,0,0,32
+336,Seto,0,0,52
+336,Heishin,0,0,52
+336,Weevil Underwood,0,0,32
+336,Mage Soldier,0,0,30
+336,Teana 2nd,0,0,18
+336,Ocean Mage,0,0,36
+336,Montain Mage,0,0,20
+336,Meadow Mage,0,0,64
+336,Seto 2nd,0,0,24
+336,Heishin 2nd,0,0,48
+336,Duel Master K,0,0,32
+337,Simon Muran,0,0,5
+337,Seto,0,0,32
+337,Heishin,0,0,20
+337,Ocean Mage,0,0,36
+337,High Mage Secmeton,0,0,40
+337,Heishin 2nd,0,0,52
+337,Darknite,0,0,52
+338,Simon Muran,0,0,36
+338,Villager1,32,35,32
+338,Villager2,0,0,34
+338,Villager3,0,0,32
+338,Weevil Underwood,0,0,32
+338,Montain Mage,0,0,36
+338,Labyrinth Mage,0,0,12
+338,Duel Master K,0,0,32
+339,Simon Muran,0,0,36
+339,Villager1,0,35,32
+339,Villager2,0,0,32
+339,Villager3,0,0,32
+339,Weevil Underwood,0,0,32
+339,Mai Valentine,0,0,32
+339,Montain Mage,0,0,36
+339,Labyrinth Mage,0,0,12
+339,Duel Master K,0,0,32
+340,Villager1,0,0,32
+340,Villager2,0,0,32
+340,Villager3,0,0,32
+340,Weevil Underwood,0,0,32
+340,Mai Valentine,0,0,52
+340,Isis,0,0,36
+340,Montain Mage,0,0,36
+340,Labyrinth Mage,0,0,12
+340,Nitemare,0,0,52
+340,Duel Master K,0,0,32
+341,Mai Valentine,0,0,52
+341,Mage Soldier,0,0,30
+341,Montain Mage,0,0,24
+341,Nitemare,0,0,52
+342,Heishin,0,0,20
+342,Teana 2nd,0,0,52
+342,Montain Mage,0,0,10
+342,Heishin 2nd,5,0,44
+342,Darknite,0,0,52
+343,Simon Muran,0,0,36
+343,Jono,0,16,16
+343,Seto,0,18,100
+343,Heishin,0,0,52
+343,Weevil Underwood,0,0,32
+343,Forest Mage,0,0,18
+343,Seto 2nd,0,0,24
+343,Heishin 2nd,0,0,1
+343,Nitemare,0,0,52
+344,Simon Muran,0,0,36
+344,Jono,0,0,18
+344,Seto,0,18,100
+344,Heishin,0,0,52
+344,Weevil Underwood,0,0,32
+344,Mai Valentine,0,0,32
+344,Jono 2nd,0,20,100
+344,Forest Mage,0,0,18
+344,Seto 2nd,0,0,24
+344,Heishin 2nd,0,0,2
+344,Nitemare,0,0,52
+345,Teana,0,0,52
+345,Villager1,0,18,18
+345,Villager2,0,0,32
+345,Villager3,0,0,32
+345,Seto,0,0,100
+345,Heishin,0,0,52
+345,Weevil Underwood,0,0,32
+345,Mai Valentine,0,0,32
+345,Jono 2nd,0,0,100
+345,Teana 2nd,0,0,18
+345,Montain Mage,0,0,18
+345,Meadow Mage,0,0,64
+345,Labyrinth Mage,0,0,12
+345,Seto 2nd,0,0,24
+345,Heishin 2nd,0,0,3
+345,Nitemare,0,0,52
+345,Duel Master K,0,0,32
+346,Seto,0,0,52
+346,Heishin,0,0,52
+346,Mage Soldier,0,0,30
+346,Ocean Mage,0,0,24
+346,Forest Mage,0,0,20
+346,Desert Mage,0,0,24
+346,High Mage Martis,0,0,25
+346,Heishin 2nd,0,0,72
+346,Nitemare,0,0,52
+347,Seto,0,0,18
+347,Heishin,0,0,20
+347,High Mage Secmeton,0,0,52
+347,Guardian Sebek,0,0,40
+347,Guardian Neku,0,0,20
+347,Heishin 2nd,5,0,52
+347,Darknite,0,0,40
+347,Nitemare,0,0,40
+348,Guardian Neku,0,0,20
+348,Heishin 2nd,0,0,52
+348,Seto 3rd,0,0,48
+349,Simon Muran,0,0,36
+349,Mai Valentine,0,0,32
+349,Mage Soldier,0,0,46
+349,Meadow Mage,0,0,64
+349,Seto 2nd,0,0,48
+349,Seto 3rd,0,0,48
+349,Nitemare,0,0,52
+350,Teana,0,0,30
+350,Villager1,0,35,32
+350,Villager2,0,0,32
+350,Villager3,0,0,32
+350,Weevil Underwood,0,0,32
+350,Yami Bakura,0,32,40
+350,Teana 2nd,0,0,32
+350,Montain Mage,0,0,36
+350,Nitemare,0,0,52
+350,Duel Master K,0,0,32
+351,High Mage Martis,24,0,0
+352,Pegasus,10,0,0
+352,Kaiba,3,0,0
+352,Teana 2nd,0,0,52
+352,Meadow Mage,20,0,0
+353,Isis,30,0,0
+353,Ocean Mage,30,0,52
+353,High Mage Secmeton,0,0,60
+354,Simon Muran,0,0,32
+354,Pegasus,20,0,0
+354,Forest Mage,0,0,64
+355,Villager3,12,0,0
+355,Kaiba,15,0,0
+355,Mage Soldier,0,0,52
+355,Seto 2nd,0,0,52
+356,Forest Mage,12,0,0
+356,High Mage Anubisius,20,0,0
+356,Guardian Sebek,8,0,0
+356,Heishin 2nd,8,0,0
+357,Pegasus,10,0,0
+357,Montain Mage,5,0,0
+357,High Mage Atenza,6,0,0
+358,Seto,0,0,32
+358,Pegasus,10,0,0
+358,Kaiba,6,0,0
+358,High Mage Atenza,10,0,0
+358,Seto 3rd,0,0,40
+358,Nitemare,0,0,36
+359,Villager2,30,0,0
+359,Villager3,12,0,0
+359,Rex Raptor,20,0,0
+360,Bandit Keith,1,0,14
+360,Desert Mage,8,0,0
+360,Guardian Sebek,5,0,0
+361,Villager1,30,0,0
+361,Isis,20,0,0
+361,Ocean Mage,20,0,52
+362,Shadi,0,0,120
+362,Meadow Mage,9,0,0
+363,Simon Muran,0,0,40
+363,Teana,0,0,20
+363,Mai Valentine,16,0,0
+363,Isis,20,0,0
+363,Teana 2nd,20,0,0
+364,Mage Soldier,6,0,26
+364,Heishin 2nd,0,0,6
+365,Guardian Neku,20,0,0
+366,Heishin,22,28,22
+366,High Mage Secmeton,25,33,0
+366,High Mage Atenza,25,27,0
+366,Labyrinth Mage,28,30,0
+366,Guardian Sebek,24,26,24
+366,Heishin 2nd,22,28,0
+366,Nitemare,0,0,44
+366,Duel Master K,0,0,38
+367,Weevil Underwood,5,2,0
+367,High Mage Anubisius,32,2,0
+368,Heishin,22,28,22
+368,Mai Valentine,30,0,0
+368,Bandit Keith,53,0,0
+368,High Mage Atenza,25,27,24
+368,Labyrinth Mage,28,30,28
+368,Guardian Sebek,50,50,46
+368,Heishin 2nd,22,28,0
+369,Labyrinth Mage,30,0,0
+369,Heishin 2nd,4,0,0
+369,Nitemare,10,0,30
+370,Heishin,4,0,0
+370,Labyrinth Mage,6,0,0
+370,Nitemare,20,0,0
+371,Heishin,4,0,0
+371,Labyrinth Mage,6,0,0
+372,Heishin,4,0,0
+372,Labyrinth Mage,6,0,0
+372,Guardian Sebek,16,0,0
+373,Heishin,4,0,0
+373,Ocean Mage,0,0,36
+373,High Mage Secmeton,0,0,98
+373,Labyrinth Mage,6,0,0
+374,High Mage Kepura,0,0,14
+374,Heishin 2nd,8,0,0
+374,Darknite,0,0,10
+375,Labyrinth Mage,6,2,0
+375,Nitemare,6,0,0
+376,High Mage Secmeton,25,0,0
+376,High Mage Kepura,42,39,0
+376,Labyrinth Mage,14,12,0
+376,Seto 2nd,28,18,12
+376,Darknite,22,22,22
+377,Forest Mage,0,1,0
+378,Kaiba,7,0,0
+378,High Mage Martis,6,0,0
+378,Nitemare,48,0,0
+379,Mai Valentine,30,0,0
+379,Bandit Keith,30,0,0
+379,Kaiba,140,0,0
+379,Mage Soldier,44,0,0
+379,High Mage Atenza,15,27,24
+379,High Mage Martis,24,24,0
+379,High Mage Kepura,52,78,84
+379,Guardian Sebek,10,26,24
+379,Guardian Neku,46,42,90
+379,Seto 3rd,120,28,46
+380,Seto 3rd,6,0,0
+380,Nitemare,0,0,16
+381,Simon Muran,2,0,0
+381,Pegasus,20,0,0
+381,Ocean Mage,23,0,0
+381,Meadow Mage,2,2,2
+381,Labyrinth Mage,6,0,0
+381,Nitemare,8,0,0
+382,Kaiba,4,0,0
+382,Desert Mage,2,0,0
+382,Nitemare,20,0,0
+383,Pegasus,16,0,0
+383,High Mage Secmeton,2,0,0
+383,Montain Mage,4,0,0
+383,Seto 3rd,28,0,0
+383,Nitemare,26,0,0
+384,Pegasus,18,0,0
+384,Montain Mage,11,12,8
+385,Heishin,4,0,0
+385,High Mage Secmeton,0,0,48
+385,Heishin 2nd,4,0,0
+385,Darknite,4,0,0
+385,Nitemare,20,0,0
+386,Heishin,4,0,0
+386,Mai Valentine,0,0,38
+386,High Mage Atenza,12,0,0
+386,Heishin 2nd,4,0,0
+386,Nitemare,20,0,0
+387,Simon Muran,52,56,0
+387,Villager1,74,76,60
+387,Yami Bakura,46,48,40
+387,Montain Mage,72,74,56
+388,Guardian Sebek,74,70,0
+388,Darknite,24,22,0
+389,Kaiba,5,0,0
+389,Jono 2nd,4,0,58
+390,Heishin,4,0,0
+390,Weevil Underwood,20,0,0
+390,Guardian Neku,4,0,0
+390,Heishin 2nd,4,0,0
+391,Heishin,20,0,0
+391,Bandit Keith,1,0,0
+391,High Mage Secmeton,0,0,32
+391,High Mage Martis,20,0,0
+391,Seto 2nd,18,0,0
+391,Guardian Sebek,52,0,0
+391,Guardian Neku,36,0,0
+391,Heishin 2nd,10,0,0
+391,Seto 3rd,48,0,0
+391,Nitemare,32,0,0
+392,High Mage Martis,0,0,20
+392,Guardian Sebek,16,0,0
+392,Heishin 2nd,10,0,0
+392,Nitemare,6,0,0
+393,Teana,176,180,20
+393,Villager1,74,76,60
+393,Villager2,14,26,23
+393,Villager3,13,16,16
+393,Shadi,20,20,0
+393,Isis,50,58,54
+393,Teana 2nd,182,182,0
+393,Montain Mage,72,74,56
+393,Heishin 2nd,0,0,1
+393,Duel Master K,13,16,16
+394,Villager2,10,12,12
+394,Villager3,12,16,12
+394,Heishin 2nd,0,0,1
+394,Duel Master K,12,16,12
+395,Simon Muran,0,0,36
+395,Teana,176,178,20
+395,Villager1,74,75,60
+395,Yami Bakura,46,48,40
+395,Teana 2nd,182,182,0
+395,Heishin 2nd,0,0,1
+396,Montain Mage,12,10,0
+396,Meadow Mage,20,22,0
+396,Heishin 2nd,0,0,1
+397,Simon Muran,52,56,52
+397,Villager1,74,75,60
+397,Weevil Underwood,20,26,1
+397,Forest Mage,0,0,120
+397,Montain Mage,72,74,56
+397,High Mage Martis,0,6,0
+397,Heishin 2nd,0,0,1
+398,Teana,176,178,20
+398,Villager1,74,75,60
+398,Villager2,15,26,23
+398,Villager3,13,18,16
+398,Shadi,20,22,0
+398,Teana 2nd,182,182,0
+398,Montain Mage,72,74,56
+398,Heishin 2nd,0,0,1
+398,Duel Master K,13,18,16
+399,Teana,176,178,20
+399,Villager1,74,75,60
+399,Teana 2nd,182,182,0
+399,Montain Mage,72,74,60
+399,Heishin 2nd,0,0,1
+400,Ocean Mage,24,0,38
+400,High Mage Secmeton,25,0,0
+400,High Mage Kepura,32,39,0
+400,Heishin 2nd,0,0,1
+401,Heishin,20,0,0
+401,High Mage Martis,12,0,0
+401,Seto 2nd,18,0,0
+401,Guardian Neku,36,0,0
+401,Heishin 2nd,20,0,0
+401,Seto 3rd,48,0,0
+401,Nitemare,32,0,0
+402,Simon Muran,0,56,0
+402,Teana,176,178,20
+402,Villager1,74,75,60
+402,Mage Soldier,22,24,0
+402,Teana 2nd,182,182,0
+402,Montain Mage,64,74,40
+402,Heishin 2nd,0,0,1
+403,High Mage Secmeton,25,0,0
+403,High Mage Kepura,32,39,0
+403,Heishin 2nd,0,0,1
+403,Darknite,22,22,22
+404,Pegasus,16,12,8
+404,Kaiba,12,13,6
+405,Mai Valentine,30,0,0
+405,Bandit Keith,54,0,0
+405,High Mage Atenza,25,27,1
+405,Guardian Sebek,46,50,46
+406,Villager2,15,0,0
+406,Weevil Underwood,22,26,0
+406,Bandit Keith,28,40,36
+406,High Mage Anubisius,22,22,20
+406,Labyrinth Mage,8,16,0
+406,Guardian Sebek,24,26,24
+407,Heishin,20,0,0
+407,Seto 2nd,18,0,0
+407,Guardian Sebek,26,0,0
+407,Heishin 2nd,20,0,0
+407,Seto 3rd,26,0,0
+407,Nitemare,32,0,0
+408,Montain Mage,0,10,0
+408,Meadow Mage,20,22,0
+408,Guardian Sebek,8,6,0
+409,Montain Mage,0,10,0
+409,Meadow Mage,20,22,0
+409,Guardian Sebek,8,6,0
+410,Simon Muran,52,56,1
+410,Jono,44,44,42
+410,Bandit Keith,28,40,36
+410,Jono 2nd,42,44,1
+411,Simon Muran,52,56,1
+411,Villager1,74,75,60
+411,Bandit Keith,28,40,36
+411,Montain Mage,64,74,60
+412,Teana,0,0,52
+412,Weevil Underwood,24,0,0
+412,Mai Valentine,30,40,45
+412,Bandit Keith,28,40,36
+412,Mage Soldier,22,24,0
+412,High Mage Anubisius,0,22,20
+412,High Mage Atenza,25,27,1
+412,Guardian Sebek,24,26,24
+412,Guardian Neku,20,21,20
+413,High Mage Secmeton,25,33,0
+413,High Mage Kepura,32,39,0
+413,Guardian Sebek,50,50,46
+414,Villager2,15,0,0
+414,Villager3,13,0,0
+414,Bandit Keith,28,40,36
+414,Labyrinth Mage,13,16,26
+414,Guardian Sebek,24,26,24
+414,Duel Master K,13,0,0
+415,Mai Valentine,30,40,45
+415,Bandit Keith,28,40,36
+415,Mage Soldier,22,24,0
+415,High Mage Atenza,25,27,1
+415,Guardian Sebek,24,26,24
+415,Guardian Neku,20,21,20
+415,Nitemare,0,0,64
+416,Simon Muran,0,0,36
+416,Mai Valentine,30,40,45
+416,Bandit Keith,28,40,36
+416,Mage Soldier,22,24,0
+416,High Mage Atenza,25,27,1
+416,Guardian Sebek,24,26,24
+416,Guardian Neku,20,21,20
+417,Simon Muran,0,0,36
+417,Rex Raptor,18,19,16
+417,Bandit Keith,28,40,36
+417,Desert Mage,16,18,16
+417,High Mage Martis,12,12,10
+417,Guardian Sebek,24,26,24
+418,Bandit Keith,8,8,8
+418,Kaiba,12,13,12
+419,High Mage Kepura,36,0,0
+419,Guardian Sebek,24,26,0
+419,Darknite,24,22,0
+420,Simon Muran,0,0,36
+420,Jono,44,44,42
+420,Seto,0,22,18
+420,Bandit Keith,28,40,36
+420,Shadi,12,12,0
+420,Jono 2nd,42,44,1
+420,Ocean Mage,0,12,0
+420,Forest Mage,14,22,0
+421,Rex Raptor,18,19,16
+421,Bandit Keith,28,40,36
+421,Shadi,12,12,0
+421,Ocean Mage,24,12,0
+421,Desert Mage,16,18,16
+422,Simon Muran,52,56,36
+422,Jono,44,44,42
+422,Bandit Keith,28,40,4
+422,Jono 2nd,42,44,1
+422,Meadow Mage,88,96,88
+423,Montain Mage,12,0,0
+423,High Mage Kepura,32,39,0
+423,Guardian Sebek,24,26,24
+423,Darknite,22,22,22
+424,Seto,20,0,0
+424,Montain Mage,12,0,0
+424,Seto 3rd,16,12,0
+425,Ocean Mage,8,0,0
+425,High Mage Secmeton,25,33,0
+425,Montain Mage,16,0,0
+425,Labyrinth Mage,14,12,0
+425,Guardian Sebek,24,26,24
+426,Heishin,44,0,0
+426,Labyrinth Mage,16,0,0
+426,Seto 2nd,18,0,0
+426,Heishin 2nd,48,0,0
+426,Seto 3rd,26,0,0
+426,Nitemare,32,0,0
+427,Heishin,4,0,0
+427,Kaiba,0,0,24
+427,Teana 2nd,0,0,24
+427,Seto 2nd,2,0,0
+427,Heishin 2nd,4,0,0
+427,Seto 3rd,22,0,0
+427,Nitemare,32,0,0
+428,Teana 2nd,30,0,0
+429,Teana,24,0,32
+429,Teana 2nd,30,0,0
+429,High Mage Secmeton,0,4,0
+430,Isis,72,88,0
+430,Nitemare,0,58,0
+431,Isis,72,88,84
+431,Nitemare,0,58,0
+432,Teana,20,0,0
+432,Villager2,15,26,23
+432,Villager3,28,36,26
+432,Rex Raptor,18,19,16
+432,Shadi,20,22,20
+432,Ocean Mage,0,24,1
+432,Desert Mage,16,18,16
+432,High Mage Martis,12,12,10
+432,Labyrinth Mage,13,14,13
+432,Duel Master K,28,36,26
+433,Yami Bakura,10,10,6
+434,Shadi,0,0,20
+434,Nitemare,32,14,0
+435,Villager1,12,0,0
+435,Montain Mage,11,12,8
+436,Simon Muran,52,56,0
+436,Jono,44,44,42
+436,Shadi,20,22,0
+436,Jono 2nd,42,44,1
+436,Ocean Mage,22,0,0
+436,Meadow Mage,88,96,80
+437,Montain Mage,12,10,0
+437,Meadow Mage,20,22,0
+438,High Mage Kepura,36,0,0
+438,Guardian Sebek,24,26,0
+438,Darknite,24,22,0
+439,Montain Mage,12,10,0
+439,Meadow Mage,20,22,0
+440,Isis,50,0,0
+440,Nitemare,32,32,0
+441,High Mage Secmeton,25,0,0
+441,High Mage Kepura,32,39,0
+441,Guardian Sebek,24,26,24
+442,Heishin,4,0,0
+442,Ocean Mage,20,0,52
+442,High Mage Secmeton,0,0,98
+442,Heishin 2nd,4,0,0
+442,Nitemare,32,0,0
+443,Shadi,0,0,90
+443,Ocean Mage,24,0,52
+443,High Mage Secmeton,0,0,98
+443,Darknite,24,22,0
+443,Nitemare,32,0,0
+444,Simon Muran,52,56,0
+444,Jono,44,44,42
+444,Villager2,15,26,23
+444,Villager3,13,18,16
+444,Shadi,20,22,0
+444,Jono 2nd,42,44,1
+444,Meadow Mage,0,96,84
+444,Duel Master K,13,18,16
+445,Seto 2nd,24,54,40
+446,Villager2,15,26,23
+446,Villager3,28,36,26
+446,Shadi,20,22,0
+446,Ocean Mage,0,26,20
+446,High Mage Martis,12,12,10
+446,Labyrinth Mage,13,14,13
+446,Duel Master K,28,36,26
+447,Seto 2nd,26,32,24
+448,Seto,16,0,0
+448,Isis,10,10,10
+448,Kaiba,12,13,24
+448,Ocean Mage,0,0,52
+449,Seto 3rd,10,12,0
+449,Nitemare,0,0,48
+450,Villager1,12,0,0
+450,Montain Mage,11,12,8
+451,Villager2,15,26,23
+451,Villager3,13,18,16
+451,Rex Raptor,0,19,16
+451,Shadi,32,44,0
+451,Ocean Mage,30,40,1
+451,Desert Mage,16,18,16
+451,Labyrinth Mage,13,14,0
+451,Duel Master K,13,18,16
+452,Villager2,15,26,23
+452,Villager3,13,18,16
+452,Seto,0,22,18
+452,Shadi,32,44,0
+452,Ocean Mage,30,40,1
+452,Forest Mage,20,22,18
+452,Labyrinth Mage,13,14,0
+452,Duel Master K,13,18,16
+453,Seto,16,0,0
+453,Heishin,46,0,0
+453,Labyrinth Mage,16,0,0
+453,Seto 2nd,18,0,0
+453,Heishin 2nd,46,0,0
+453,Seto 3rd,26,0,0
+453,Nitemare,32,0,0
+454,Isis,10,10,10
+454,Kaiba,12,13,1
+455,Heishin,48,64,1
+455,Heishin 2nd,20,64,1
+456,Isis,10,10,10
+456,Kaiba,12,13,1
+457,Heishin,48,64,1
+457,Heishin 2nd,40,64,1
+458,Montain Mage,12,10,0
+458,Meadow Mage,20,22,0
+458,Nitemare,32,0,0
+459,Weevil Underwood,22,26,0
+459,Mage Soldier,22,24,0
+459,High Mage Anubisius,22,22,20
+459,Labyrinth Mage,13,14,14
+459,Guardian Neku,10,21,20
+460,Teana,0,0,50
+460,Mai Valentine,30,0,0
+460,Bandit Keith,30,0,0
+460,High Mage Atenza,25,27,1
+460,Labyrinth Mage,13,14,14
+460,Guardian Sebek,24,26,24
+461,Teana,0,0,50
+461,Villager2,15,26,23
+461,Villager3,26,36,26
+461,High Mage Martis,12,12,10
+461,Labyrinth Mage,13,14,14
+461,Duel Master K,26,36,0
+462,Mai Valentine,30,0,0
+462,Bandit Keith,30,0,0
+462,Mage Soldier,22,0,0
+462,High Mage Secmeton,0,5,0
+462,High Mage Atenza,25,27,1
+462,Labyrinth Mage,13,14,12
+462,Guardian Sebek,24,26,24
+462,Guardian Neku,10,21,20
+463,Villager2,15,26,23
+463,Villager3,13,18,16
+463,Rex Raptor,0,19,16
+463,Desert Mage,16,18,16
+463,High Mage Martis,12,12,10
+463,Labyrinth Mage,13,14,12
+463,Duel Master K,13,18,0
+464,High Mage Secmeton,25,0,0
+464,High Mage Atenza,50,58,0
+464,High Mage Kepura,32,39,0
+464,Darknite,22,22,22
+465,Heishin,26,24,0
+465,High Mage Atenza,55,0,0
+465,Seto 2nd,16,18,0
+465,Heishin 2nd,26,24,0
+465,Seto 3rd,24,24,0
+465,Darknite,24,22,0
+465,Nitemare,32,32,0
+466,Mai Valentine,94,120,0
+466,Mage Soldier,22,24,0
+466,High Mage Atenza,75,84,1
+466,Guardian Neku,20,21,20
+466,Darknite,22,22,22
+467,Heishin,20,0,0
+467,High Mage Atenza,55,0,0
+467,Seto 2nd,18,0,0
+467,Heishin 2nd,20,0,0
+467,Seto 3rd,26,0,0
+467,Darknite,26,0,0
+467,Nitemare,32,0,0
+468,High Mage Secmeton,25,33,0
+468,High Mage Atenza,50,56,1
+468,High Mage Kepura,32,39,0
+468,Guardian Sebek,24,26,24
+468,Darknite,22,22,22
+469,Simon Muran,52,56,0
+469,Teana,176,178,0
+469,Villager1,74,75,60
+469,Teana 2nd,182,182,0
+469,Montain Mage,72,74,60
+470,Heishin,24,32,1
+470,Heishin 2nd,24,32,0
+471,Heishin,20,0,0
+471,High Mage Martis,12,0,0
+471,Seto 2nd,18,0,0
+471,Guardian Neku,36,0,0
+471,Heishin 2nd,20,0,0
+471,Seto 3rd,48,0,0
+471,Nitemare,32,0,0
+472,High Mage Martis,12,0,0
+472,Guardian Neku,24,21,0
+472,Seto 3rd,24,24,0
+472,Darknite,24,22,0
+473,Montain Mage,12,10,0
+473,Meadow Mage,20,22,0
+473,Nitemare,32,0,0
+474,Seto 2nd,44,0,40
+475,Teana,176,178,0
+475,Villager1,74,75,60
+475,Shadi,20,22,0
+475,Teana 2nd,102,182,0
+475,Montain Mage,72,74,60
+476,Seto,0,22,18
+476,Rex Raptor,0,19,16
+476,Weevil Underwood,20,26,42
+476,Shadi,12,12,0
+476,Ocean Mage,10,12,0
+476,Forest Mage,20,22,18
+476,High Mage Anubisius,22,22,20
+476,Desert Mage,16,18,16
+477,Rex Raptor,0,19,16
+477,Weevil Underwood,20,26,42
+477,High Mage Anubisius,22,22,20
+477,Desert Mage,16,18,16
+477,High Mage Martis,12,12,10
+478,Villager3,13,18,16
+478,Rex Raptor,0,19,16
+478,Weevil Underwood,20,26,1
+478,High Mage Anubisius,22,22,20
+478,Desert Mage,16,18,16
+478,High Mage Martis,12,12,10
+478,Duel Master K,13,18,0
+479,Teana,20,0,0
+479,Rex Raptor,0,19,16
+479,Weevil Underwood,20,26,1
+479,High Mage Anubisius,22,22,20
+479,Desert Mage,16,18,16
+479,High Mage Martis,12,12,10
+480,Villager1,12,0,0
+480,Weevil Underwood,0,0,42
+480,Montain Mage,11,12,8
+481,Rex Raptor,0,19,16
+481,Pegasus,0,38,0
+481,Desert Mage,16,18,16
+481,High Mage Martis,12,12,10
+481,Darknite,22,22,22
+482,Montain Mage,12,10,0
+482,Meadow Mage,20,22,0
+482,Nitemare,32,0,0
+483,Pegasus,16,0,0
+483,Darknite,48,46,0
+484,Simon Muran,52,56,0
+484,Villager1,74,75,60
+484,Villager2,15,25,23
+484,Villager3,13,18,16
+484,Shadi,20,22,0
+484,Montain Mage,70,72,60
+484,Duel Master K,13,18,16
+485,Simon Muran,52,56,0
+485,Jono,34,44,42
+485,Weevil Underwood,20,26,42
+485,Jono 2nd,42,44,1
+485,Meadow Mage,88,96,80
+486,Jono,34,44,42
+486,Seto,0,22,0
+486,Yami Bakura,46,48,40
+486,Jono 2nd,42,44,1
+486,High Mage Secmeton,25,33,0
+486,Forest Mage,20,22,18
+486,High Mage Martis,12,12,10
+487,Seto,20,0,48
+487,Weevil Underwood,0,0,42
+487,Montain Mage,12,10,0
+487,Meadow Mage,20,22,0
+488,Simon Muran,52,56,0
+488,Jono,34,44,42
+488,Seto,0,22,0
+488,Weevil Underwood,20,26,0
+488,Jono 2nd,42,44,1
+489,Villager1,12,0,0
+489,Forest Mage,40,0,0
+490,Rex Raptor,0,19,16
+490,Shadi,12,12,0
+490,Mage Soldier,22,24,0
+490,Ocean Mage,10,12,0
+490,Desert Mage,16,18,16
+490,High Mage Martis,12,12,10
+491,High Mage Secmeton,25,33,0
+491,High Mage Atenza,45,58,0
+491,High Mage Kepura,32,39,0
+491,Guardian Sebek,24,26,24
+491,Darknite,22,22,22
+492,Jono,34,44,42
+492,Seto,0,22,0
+492,Shadi,12,12,0
+492,Yami Bakura,46,48,40
+492,Jono 2nd,42,44,1
+492,Ocean Mage,10,12,0
+492,High Mage Secmeton,25,33,0
+492,Forest Mage,20,22,18
+493,Teana,0,0,62
+493,Seto 2nd,26,32,24
+494,High Mage Secmeton,0,6,0
+494,Nitemare,32,14,0
+495,Seto 2nd,12,20,10
+495,Seto 3rd,0,0,48
+495,Nitemare,32,0,0
+496,Villager2,15,0,0
+496,Villager3,13,0,0
+496,Weevil Underwood,22,26,0
+496,Pegasus,36,38,0
+496,High Mage Anubisius,22,22,20
+496,Labyrinth Mage,13,14,12
+496,Darknite,22,22,22
+496,Duel Master K,13,0,0
+497,Ocean Mage,0,0,52
+497,Seto 3rd,26,32,0
+498,Bandit Keith,8,8,8
+498,Kaiba,12,13,1
+499,Simon Muran,10,0,52
+499,Villager1,12,0,0
+499,Weevil Underwood,10,0,0
+499,Shadi,0,0,52
+499,High Mage Secmeton,0,1,0
+499,Forest Mage,8,0,0
+500,Seto,16,0,0
+500,Heishin,20,0,0
+500,High Mage Martis,12,0,0
+500,Seto 2nd,18,0,0
+500,Guardian Neku,28,0,0
+500,Heishin 2nd,20,0,0
+500,Seto 3rd,48,0,0
+500,Nitemare,32,0,0
+501,Jono,44,44,42
+501,Seto,0,22,0
+501,Weevil Underwood,20,26,42
+501,Jono 2nd,42,44,1
+501,Forest Mage,20,22,18
+501,High Mage Anubisius,22,22,20
+501,Heishin 2nd,36,0,0
+502,Villager1,12,0,0
+502,Seto,16,0,0
+502,Montain Mage,11,12,8
+502,Seto 2nd,0,32,0
+503,Villager2,15,25,23
+503,Villager3,13,18,16
+503,Rex Raptor,0,19,16
+503,Shadi,32,44,0
+503,Ocean Mage,34,40,0
+503,Desert Mage,16,18,16
+503,High Mage Martis,12,12,10
+503,Labyrinth Mage,13,14,12
+503,Duel Master K,13,18,16
+504,Simon Muran,52,56,0
+504,Villager1,50,72,60
+504,Mage Soldier,22,24,0
+504,Montain Mage,70,72,60
+505,Heishin,46,64,1
+505,Heishin 2nd,46,64,104
+506,Seto,0,22,0
+506,Weevil Underwood,20,26,42
+506,Shadi,12,12,0
+506,Ocean Mage,10,12,0
+506,Forest Mage,20,22,18
+506,High Mage Anubisius,22,22,20
+507,High Mage Secmeton,0,5,0
+507,Seto 2nd,26,32,24
+508,High Mage Secmeton,25,33,0
+508,High Mage Kepura,32,39,0
+508,Guardian Sebek,50,50,46
+509,Heishin,4,0,0
+509,Shadi,0,0,24
+509,Montain Mage,6,0,0
+509,Meadow Mage,20,0,0
+509,Guardian Sebek,10,0,0
+509,Heishin 2nd,4,0,0
+509,Nitemare,32,0,0
+510,Seto,0,44,0
+510,Rex Raptor,0,19,16
+510,Weevil Underwood,20,26,42
+510,Shadi,12,12,0
+510,Ocean Mage,10,12,0
+510,Forest Mage,48,42,38
+510,High Mage Anubisius,22,22,20
+510,Desert Mage,16,18,16
+511,Teana,0,0,52
+511,Weevil Underwood,24,0,0
+511,Mai Valentine,30,40,0
+511,Mage Soldier,22,24,0
+511,Forest Mage,20,22,18
+511,High Mage Anubisius,22,22,20
+511,High Mage Atenza,25,27,1
+511,Guardian Neku,20,21,20
+512,Mai Valentine,30,40,0
+512,Bandit Keith,30,36,0
+512,Mage Soldier,22,24,0
+512,Ocean Mage,22,0,0
+512,High Mage Atenza,25,27,1
+512,Guardian Sebek,24,26,24
+512,Guardian Neku,20,21,20
+513,High Mage Secmeton,25,33,0
+513,High Mage Kepura,32,39,0
+513,Guardian Sebek,24,26,24
+513,Nitemare,32,0,0
+514,Villager2,15,0,0
+514,Weevil Underwood,22,26,0
+514,Bandit Keith,30,36,36
+514,High Mage Anubisius,22,22,20
+514,Labyrinth Mage,13,14,12
+514,Guardian Sebek,24,26,24
+515,Seto,20,0,0
+515,Seto 2nd,26,32,24
+516,Simon Muran,52,56,0
+516,Teana,0,0,20
+516,Jono,44,44,42
+516,Villager2,15,25,23
+516,Villager3,13,18,16
+516,Jono 2nd,42,44,1
+516,Meadow Mage,88,96,80
+516,Duel Master K,13,18,16
+517,Isis,10,10,10
+517,Kaiba,12,13,1
+518,Heishin,12,10,0
+518,Heishin 2nd,12,10,0
+518,Nitemare,32,0,0
+519,Nitemare,0,14,1
+520,Nitemare,14,14,0
+521,Montain Mage,12,10,0
+521,Meadow Mage,20,12,0
+522,Heishin,26,24,0
+522,High Mage Atenza,50,0,0
+522,Seto 2nd,16,16,0
+522,Heishin 2nd,26,24,0
+522,Seto 3rd,24,24,0
+522,Darknite,24,22,0
+522,Nitemare,32,32,0
+523,Seto,16,0,0
+523,Seto 2nd,0,16,0
+523,Seto 3rd,26,32,24
+524,Jono,44,44,42
+524,Villager2,15,25,23
+524,Villager3,13,18,16
+524,Seto,0,22,0
+524,Shadi,20,22,0
+524,Jono 2nd,42,44,1
+524,Ocean Mage,22,24,0
+524,Forest Mage,20,22,18
+524,Labyrinth Mage,13,14,12
+524,Duel Master K,13,18,16
+525,Heishin,12,16,1
+525,Heishin 2nd,12,16,0
+526,Seto,16,0,0
+526,High Mage Martis,12,0,0
+526,Guardian Neku,24,21,0
+526,Seto 3rd,24,24,0
+526,Darknite,24,22,0
+527,Teana,176,178,20
+527,Villager1,10,72,60
+527,Pegasus,36,38,0
+527,Teana 2nd,164,182,0
+527,Montain Mage,70,72,60
+528,High Mage Secmeton,25,0,0
+528,High Mage Kepura,32,39,0
+528,Darknite,46,46,46
+529,Seto,16,0,0
+529,Heishin,12,10,0
+529,Pegasus,0,0,52
+529,Heishin 2nd,12,10,0
+529,Seto 3rd,0,0,48
+529,Nitemare,32,0,0
+530,Isis,44,48,42
+530,Heishin 2nd,0,0,104
+530,Nitemare,0,58,0
+531,Seto,16,0,0
+531,Heishin,46,44,0
+531,Labyrinth Mage,16,0,0
+531,Seto 2nd,16,16,0
+531,Heishin 2nd,46,44,0
+531,Seto 3rd,24,24,48
+531,Darknite,24,22,0
+531,Nitemare,32,32,0
+532,Seto,0,0,32
+532,Heishin,24,32,1
+532,Heishin 2nd,24,32,0
+532,Nitemare,32,0,0
+533,Montain Mage,12,10,0
+533,Meadow Mage,20,12,0
+533,Nitemare,32,0,0
+534,Rex Raptor,0,19,16
+534,Weevil Underwood,20,26,42
+534,Shadi,12,12,0
+534,Ocean Mage,0,12,0
+534,High Mage Anubisius,22,22,20
+534,Desert Mage,16,18,16
+534,High Mage Martis,0,12,10
+535,Seto 3rd,26,32,0
+536,Seto,0,22,0
+536,Rex Raptor,0,19,16
+536,Shadi,32,44,0
+536,Ocean Mage,22,40,0
+536,Forest Mage,20,22,16
+536,Desert Mage,16,18,16
+537,Simon Muran,20,0,0
+537,Rex Raptor,48,0,0
+537,Pegasus,0,0,64
+537,Ocean Mage,0,0,52
+537,High Mage Secmeton,21,5,0
+537,Montain Mage,5,0,0
+538,Rex Raptor,0,19,16
+538,Mai Valentine,62,80,90
+538,Pegasus,36,38,0
+538,High Mage Atenza,50,56,1
+538,Desert Mage,16,18,16
+538,High Mage Martis,0,12,10
+538,Darknite,22,22,22
+539,Seto,20,0,0
+539,Seto 3rd,44,54,0
+540,Seto,0,22,18
+540,Shadi,12,12,0
+540,Yami Bakura,46,48,40
+540,Ocean Mage,10,12,0
+540,High Mage Secmeton,25,33,0
+540,Forest Mage,20,22,16
+541,Simon Muran,20,0,0
+541,Forest Mage,34,0,0
+542,Montain Mage,12,10,0
+542,Meadow Mage,20,22,0
+543,Teana,38,0,0
+544,Seto,0,22,18
+544,Rex Raptor,48,19,16
+544,Bandit Keith,30,36,36
+544,Shadi,12,12,0
+544,Pegasus,0,0,32
+544,Ocean Mage,10,12,0
+544,Forest Mage,20,22,16
+544,Desert Mage,16,18,16
+545,Seto,16,0,0
+545,Desert Mage,30,0,0
+545,Seto 2nd,0,16,0
+546,Seto 2nd,44,32,40
+547,Simon Muran,52,56,0
+547,Villager1,74,72,60
+547,Seto,0,22,18
+547,Weevil Underwood,20,26,42
+547,Montain Mage,70,72,30
+548,Simon Muran,52,56,0
+548,Villager1,74,72,60
+548,Villager2,15,25,23
+548,Villager3,13,18,16
+548,Bandit Keith,30,36,36
+548,Montain Mage,70,72,30
+548,Duel Master K,13,18,16
+549,Jono,44,44,42
+549,Villager2,15,25,23
+549,Villager3,13,18,16
+549,Seto,0,22,18
+549,Shadi,32,44,0
+549,Jono 2nd,42,44,1
+549,Ocean Mage,34,40,0
+549,Forest Mage,20,22,0
+549,Labyrinth Mage,13,14,12
+549,Duel Master K,13,18,16
+550,Isis,46,48,0
+550,Nitemare,0,58,0
+551,Seto 3rd,26,32,0
+552,Villager2,15,0,0
+552,Villager3,13,0,0
+552,Weevil Underwood,22,26,0
+552,Mai Valentine,62,80,90
+552,Pegasus,36,38,0
+552,High Mage Anubisius,22,22,20
+552,High Mage Atenza,50,56,1
+552,Labyrinth Mage,13,14,12
+552,Darknite,22,22,22
+552,Duel Master K,13,0,0
+553,Seto 3rd,44,54,0
+554,Kaiba,29,0,0
+554,Jono 2nd,15,0,0
+554,Nitemare,1,0,0
+555,Heishin,0,0,52
+555,Montain Mage,20,0,0
+555,High Mage Atenza,0,15,0
+555,Seto 2nd,0,16,0
+555,Nitemare,1,0,0
+556,Villager2,15,25,23
+556,Villager3,13,18,16
+556,Seto,0,22,18
+556,Rex Raptor,48,19,16
+556,Bandit Keith,30,36,36
+556,Shadi,12,12,0
+556,Ocean Mage,10,12,0
+556,Forest Mage,20,22,0
+556,Desert Mage,16,18,16
+556,Labyrinth Mage,13,14,12
+556,Duel Master K,13,18,16
+557,Pegasus,0,0,32
+557,Montain Mage,12,10,0
+557,Meadow Mage,20,22,0
+557,Guardian Sebek,8,6,4
+558,Simon Muran,52,56,0
+558,Jono,44,44,42
+558,Villager1,74,72,60
+558,Villager2,15,25,23
+558,Villager3,13,18,16
+558,Jono 2nd,42,44,1
+558,Montain Mage,70,72,30
+558,Duel Master K,13,18,16
+559,Seto 2nd,44,0,40
+560,Seto 3rd,44,54,0
+561,Seto,20,0,0
+561,Seto 2nd,44,54,40
+562,Weevil Underwood,10,0,0
+562,Forest Mage,8,0,0
+563,Simon Muran,52,56,0
+563,Jono,44,44,42
+563,Mage Soldier,22,24,0
+563,Jono 2nd,42,44,1
+563,Meadow Mage,88,96,80
+564,Heishin,48,0,0
+564,Labyrinth Mage,16,0,0
+564,Seto 2nd,18,0,0
+564,Guardian Sebek,26,0,0
+564,Heishin 2nd,48,0,0
+564,Seto 3rd,26,0,0
+564,Nitemare,32,0,0
+565,Seto 2nd,12,16,10
+565,Nitemare,32,0,0
+566,Teana,12,0,0
+567,Villager2,14,0,0
+567,Villager3,14,0,0
+567,Weevil Underwood,22,26,0
+567,Forest Mage,20,22,0
+567,High Mage Anubisius,22,22,20
+567,Labyrinth Mage,13,14,12
+568,Villager3,13,18,16
+568,Rex Raptor,48,36,26
+568,Desert Mage,32,32,30
+568,High Mage Martis,12,12,10
+568,Duel Master K,13,18,16
+569,Rex Raptor,48,19,16
+569,Shadi,20,22,0
+569,Ocean Mage,22,24,0
+569,Desert Mage,16,18,16
+569,High Mage Martis,12,12,10
+570,Teana,6,0,0
+570,Jono,6,0,0
+570,Villager1,10,0,0
+570,Montain Mage,0,12,8
+571,Seto,20,0,0
+571,Heishin,26,24,52
+571,Montain Mage,24,0,0
+571,High Mage Kepura,36,0,0
+571,Seto 2nd,16,16,0
+571,Heishin 2nd,26,24,0
+571,Seto 3rd,24,24,48
+571,Darknite,24,22,0
+571,Nitemare,48,66,0
+572,Heishin,26,24,52
+572,Seto 2nd,32,32,0
+572,Heishin 2nd,26,24,0
+572,Seto 3rd,24,24,0
+572,Darknite,24,22,0
+572,Nitemare,48,32,0
+573,Villager3,13,18,16
+573,Rex Raptor,48,52,52
+573,Desert Mage,52,48,52
+573,High Mage Martis,12,12,10
+573,Duel Master K,13,18,16
+574,Seto 3rd,44,54,0
+575,Seto 2nd,0,16,0
+575,Darknite,48,46,0
+576,Villager2,14,0,0
+576,Villager3,14,0,0
+576,Weevil Underwood,22,26,0
+576,High Mage Anubisius,22,22,22
+576,Labyrinth Mage,13,14,12
+576,Duel Master K,14,0,0
+577,High Mage Atenza,55,0,0
+577,High Mage Kepura,32,39,0
+577,Seto 2nd,0,16,0
+577,Darknite,46,46,46
+577,Nitemare,0,0,48
+578,Yami Bakura,10,10,6
+578,Kaiba,12,13,1
+578,Seto 2nd,0,16,0
+579,Jono,44,44,42
+579,Seto,0,44,38
+579,Weevil Underwood,20,26,42
+579,Jono 2nd,42,44,1
+579,Forest Mage,44,42,0
+579,High Mage Anubisius,22,22,20
+580,Teana,6,0,0
+580,Jono,6,0,0
+580,Villager1,8,0,0
+580,Kaiba,0,0,36
+580,Montain Mage,0,12,8
+581,Jono,2,0,0
+581,Montain Mage,20,0,0
+582,High Mage Secmeton,25,0,0
+582,High Mage Kepura,32,0,0
+582,Seto 2nd,0,16,0
+582,Darknite,24,22,0
+582,Nitemare,32,0,0
+583,Seto 2nd,26,18,24
+584,Villager2,14,0,0
+584,Villager3,14,0,0
+584,Yami Bakura,48,44,0
+584,High Mage Secmeton,25,33,0
+584,Labyrinth Mage,13,14,12
+585,Villager3,13,18,16
+585,Rex Raptor,48,19,16
+585,Bandit Keith,30,36,36
+585,Desert Mage,16,18,16
+585,High Mage Martis,12,12,10
+585,Guardian Sebek,24,26,24
+585,Duel Master K,13,18,16
+586,Villager2,10,12,10
+587,Yami Bakura,10,10,6
+587,Kaiba,12,13,1
+587,Nitemare,0,0,48
+588,Jono,2,2,0
+588,Villager3,12,16,12
+588,Duel Master K,12,16,0
+589,Jono,44,44,42
+589,Seto,0,44,38
+589,Weevil Underwood,20,26,42
+589,Jono 2nd,42,44,1
+589,Forest Mage,24,42,0
+589,High Mage Anubisius,22,22,22
+590,Rex Raptor,48,19,16
+590,Shadi,12,22,20
+590,Ocean Mage,22,24,0
+590,Desert Mage,16,18,16
+590,High Mage Martis,12,12,10
+590,Guardian Neku,0,0,64
+591,Villager2,14,25,23
+591,Villager3,13,18,16
+591,Seto,0,22,18
+591,Shadi,12,12,12
+591,Ocean Mage,10,12,0
+591,Forest Mage,20,22,0
+591,Labyrinth Mage,13,14,12
+591,Guardian Neku,0,0,48
+591,Duel Master K,13,18,0
+592,Villager2,10,12,10
+592,Villager3,12,16,12
+592,Duel Master K,12,16,0
+593,Heishin,12,16,1
+593,Heishin 2nd,12,16,0
+594,Heishin,26,24,0
+594,Forest Mage,24,0,0
+594,High Mage Anubisius,22,0,0
+594,Seto 2nd,16,16,0
+594,Heishin 2nd,26,24,0
+594,Seto 3rd,24,24,0
+594,Darknite,24,22,0
+594,Nitemare,32,32,0
+595,Pegasus,8,12,0
+595,Kaiba,12,13,1
+596,Isis,50,0,0
+596,Nitemare,1,35,0
+597,Mai Valentine,30,40,0
+597,Pegasus,36,0,0
+597,Mage Soldier,22,24,0
+597,High Mage Atenza,25,27,1
+597,Guardian Neku,20,21,20
+597,Darknite,22,22,22
+597,Nitemare,0,0,48
+598,Jono,44,44,42
+598,Seto,0,22,18
+598,Pegasus,36,38,0
+598,Jono 2nd,42,44,1
+598,Forest Mage,20,22,0
+599,Heishin,46,64,1
+599,Heishin 2nd,46,64,0
+600,Seto 3rd,44,54,0
+601,Villager2,14,0,0
+601,Villager3,13,0,0
+601,Yami Bakura,48,44,0
+601,High Mage Secmeton,25,33,0
+601,Labyrinth Mage,13,14,12
+601,Duel Master K,13,0,0
+602,Villager2,14,25,23
+602,Villager3,13,18,16
+602,Seto,0,22,18
+602,Shadi,32,44,30
+602,Kaiba,0,0,24
+602,Ocean Mage,34,40,0
+602,Forest Mage,20,22,0
+602,High Mage Kepura,0,0,36
+602,Labyrinth Mage,13,14,12
+602,Duel Master K,13,18,0
+603,Montain Mage,8,0,0
+603,Nitemare,1,0,0
+604,Rex Raptor,18,19,16
+604,Shadi,12,12,12
+604,Pegasus,36,38,0
+604,Ocean Mage,10,12,0
+604,Desert Mage,8,18,16
+605,Villager2,14,25,23
+605,Villager3,13,18,16
+605,Rex Raptor,18,19,16
+605,Shadi,20,22,20
+605,Ocean Mage,22,24,0
+605,Desert Mage,16,18,16
+605,High Mage Martis,12,12,10
+605,Labyrinth Mage,13,14,12
+605,Duel Master K,13,18,72
+606,Villager2,14,25,23
+606,Villager3,13,18,16
+606,Rex Raptor,18,19,16
+606,Shadi,27,44,30
+606,Ocean Mage,34,40,0
+606,Desert Mage,16,18,16
+606,Labyrinth Mage,13,14,12
+606,Duel Master K,13,18,0
+607,Jono,2,0,0
+607,Nitemare,2,0,0
+608,Villager2,14,0,0
+608,Weevil Underwood,22,26,0
+608,Yami Bakura,48,44,0
+608,Mage Soldier,22,26,0
+608,High Mage Secmeton,25,33,0
+608,High Mage Anubisius,22,22,22
+608,Labyrinth Mage,13,14,12
+608,Guardian Neku,20,21,20
+609,Seto,0,22,18
+609,Weevil Underwood,20,26,42
+609,Shadi,12,12,12
+609,Ocean Mage,10,12,0
+609,Forest Mage,20,22,0
+609,High Mage Anubisius,22,22,22
+610,Villager2,2,2,2
+610,Labyrinth Mage,0,0,28
+610,Nitemare,1,0,0
+611,Jono,44,44,42
+611,Seto,0,22,18
+611,Mage Soldier,22,24,0
+611,Jono 2nd,42,44,1
+611,Forest Mage,16,22,0
+611,High Mage Martis,12,12,10
+612,Villager3,13,18,16
+612,Yami Bakura,40,48,40
+612,High Mage Secmeton,25,33,0
+612,High Mage Martis,24,24,20
+612,Duel Master K,13,18,16
+613,Heishin,20,0,0
+613,High Mage Secmeton,10,0,0
+613,Labyrinth Mage,16,0,0
+613,Seto 2nd,12,16,0
+613,Heishin 2nd,20,0,0
+613,Seto 3rd,24,0,48
+613,Nitemare,32,0,0
+614,Bandit Keith,8,8,8
+614,Kaiba,12,13,1
+615,Isis,46,46,0
+615,Nitemare,1,48,0
+616,Jono,2,0,0
+616,Heishin,20,0,0
+616,Teana 2nd,18,0,0
+616,Seto 3rd,22,0,0
+617,Nitemare,32,14,0
+618,Heishin,0,0,26
+618,Montain Mage,11,10,0
+618,Meadow Mage,20,12,0
+618,Seto 2nd,0,0,48
+619,Heishin,20,0,0
+619,Kaiba,0,0,48
+619,Seto 2nd,0,0,48
+619,Heishin 2nd,0,0,52
+619,Seto 3rd,16,12,0
+620,Villager2,14,0,0
+620,Villager3,14,0,0
+620,Weevil Underwood,44,42,0
+620,Forest Mage,20,22,0
+620,High Mage Anubisius,42,42,42
+620,Labyrinth Mage,13,14,0
+620,Duel Master K,14,0,0
+621,Isis,10,10,10
+621,Kaiba,12,13,48
+622,Teana,0,0,52
+622,Heishin,10,0,26
+622,Yami Bakura,20,0,0
+622,Seto 2nd,12,12,10
+623,Heishin,24,28,1
+623,Heishin 2nd,12,28,0
+624,Seto 2nd,12,18,10
+625,Isis,50,0,0
+625,Nitemare,1,0,1
+626,Isis,50,0,0
+626,Nitemare,1,0,1
+627,Heishin,26,24,0
+627,Mage Soldier,0,0,42
+627,Seto 2nd,16,0,0
+627,Heishin 2nd,26,24,0
+627,Seto 3rd,24,24,0
+627,Darknite,28,22,0
+627,Nitemare,32,32,0
+628,Teana,0,0,42
+628,Shadi,5,0,0
+628,Yami Bakura,6,0,0
+628,Teana 2nd,40,0,0
+628,High Mage Secmeton,5,0,0
+629,Villager2,14,25,0
+629,Villager3,14,18,0
+629,Pegasus,36,38,0
+629,Labyrinth Mage,13,14,8
+629,Darknite,0,22,22
+629,Duel Master K,0,18,0
+630,Yami Bakura,10,10,6
+630,Pegasus,0,0,48
+630,Kaiba,12,13,1
+631,Heishin,24,32,1
+631,Pegasus,0,0,36
+631,Heishin 2nd,24,32,0
+632,Heishin,12,16,1
+632,Pegasus,0,0,36
+632,Mage Soldier,0,0,52
+632,Heishin 2nd,12,16,0
+633,High Mage Secmeton,52,76,0
+633,Guardian Sebek,24,26,24
+634,Heishin,24,32,1
+634,Heishin 2nd,24,32,0
+635,Simon Muran,52,56,0
+635,Villager1,74,75,60
+635,Mage Soldier,0,0,48
+635,Montain Mage,56,72,60
+636,Mai Valentine,94,0,0
+636,Bandit Keith,30,0,0
+636,Pegasus,28,0,0
+636,Mage Soldier,14,0,52
+636,High Mage Atenza,66,86,1
+636,Guardian Sebek,24,26,24
+636,Guardian Neku,20,21,58
+636,Darknite,22,22,22
+637,Montain Mage,12,10,0
+637,Meadow Mage,20,22,0
+638,High Mage Secmeton,25,0,0
+638,Forest Mage,24,0,0
+638,High Mage Anubisius,22,22,0
+638,High Mage Kepura,12,39,0
+639,Kaiba,0,0,40
+639,Guardian Neku,0,0,48
+639,Seto 3rd,14,16,48
+640,Weevil Underwood,20,0,0
+640,Forest Mage,20,0,0
+641,Seto 3rd,14,16,0
+642,Villager2,14,25,0
+642,Villager3,14,18,0
+642,Pegasus,36,38,0
+642,Labyrinth Mage,14,14,0
+642,Darknite,0,22,22
+642,Duel Master K,14,18,0
+643,Villager2,14,0,0
+643,Weevil Underwood,22,26,0
+643,Bandit Keith,30,36,36
+643,High Mage Anubisius,22,22,20
+643,Labyrinth Mage,14,14,0
+643,Guardian Sebek,24,26,24
+644,Teana,0,0,52
+644,Mage Soldier,40,0,0
+645,Heishin,4,0,0
+645,Mage Soldier,0,0,52
+645,Seto 2nd,12,0,0
+645,Heishin 2nd,4,0,0
+645,Seto 3rd,0,0,48
+646,Heishin,46,64,1
+646,Heishin 2nd,46,64,0
+647,Seto 3rd,26,32,24
+648,Mai Valentine,30,0,0
+648,Bandit Keith,54,0,0
+648,High Mage Atenza,16,27,1
+648,Guardian Sebek,50,50,46
+649,Isis,48,48,0
+649,Kaiba,0,48,0
+649,Nitemare,1,35,1
+650,High Mage Secmeton,25,33,0
+650,High Mage Martis,12,12,0
+650,High Mage Kepura,15,39,0
+650,Guardian Neku,28,21,48
+650,Seto 3rd,24,32,0
+651,Jono,33,34,35
+651,Kaiba,0,0,56
+651,Mage Soldier,0,0,80
+651,Jono 2nd,0,20,100
+651,High Mage Kepura,0,0,100
+652,Villager2,0,0,32
+652,Villager3,18,26,26
+652,Pegasus,0,32,0
+652,Labyrinth Mage,0,0,24
+652,Darknite,0,0,24
+652,Duel Master K,10,26,26
+653,Yami Bakura,0,0,32
+653,Kaiba,0,0,80
+653,Mage Soldier,0,0,52
+653,Jono 2nd,0,0,100
+653,High Mage Secmeton,0,0,32
+653,High Mage Kepura,0,0,80
+653,Seto 2nd,0,0,24
+653,Seto 3rd,0,0,25
+654,Jono,0,0,35
+654,Jono 2nd,0,0,100
+655,Villager1,16,18,20
+655,Villager2,0,0,32
+655,Villager3,0,0,23
+655,Mage Soldier,0,0,52
+655,Jono 2nd,0,0,100
+655,Montain Mage,0,0,18
+655,Labyrinth Mage,0,0,24
+655,Seto 2nd,0,0,40
+655,Guardian Neku,0,0,18
+655,Darknite,0,0,90
+655,Duel Master K,0,0,26
+656,Seto,0,0,32
+656,Rex Raptor,16,0,0
+656,Isis,0,0,32
+656,Forest Mage,0,0,36
+656,Seto 2nd,0,0,48
+656,Seto 3rd,0,0,24
+656,Nitemare,0,0,30
+657,Labyrinth Mage,0,0,20
+658,Bandit Keith,48,60,64
+658,Seto 2nd,0,0,64
+658,Guardian Sebek,0,0,40
+659,Teana 2nd,0,0,172
+659,Montain Mage,0,2,12
+659,Meadow Mage,18,12,0
+659,Darknite,0,0,32
+659,Nitemare,0,0,48
+660,Bandit Keith,0,0,64
+660,Guardian Sebek,0,0,40
+661,Heishin,0,0,52
+661,Yami Bakura,0,0,2
+661,Isis,0,0,2
+661,Kaiba,0,0,32
+661,Mage Soldier,2,0,0
+661,High Mage Kepura,0,0,40
+661,Labyrinth Mage,0,0,20
+661,Heishin 2nd,0,0,20
+661,Seto 3rd,0,0,52
+661,Darknite,0,0,28
+662,Weevil Underwood,0,0,64
+662,High Mage Anubisius,0,0,40
+663,Isis,0,0,64
+663,Mage Soldier,0,0,52
+663,Teana 2nd,0,0,172
+663,Nitemare,0,0,40
+664,Shadi,0,0,40
+664,Isis,0,0,32
+664,Ocean Mage,0,0,260
+664,Seto 2nd,0,0,42
+664,Heishin 2nd,0,0,48
+664,Nitemare,0,0,40
+665,Villager1,0,0,12
+665,Heishin,0,0,52
+665,Yami Bakura,0,0,32
+665,Pegasus,0,0,32
+665,Isis,0,0,32
+665,Kaiba,0,0,80
+665,Montain Mage,0,0,8
+665,High Mage Atenza,0,0,50
+665,High Mage Kepura,0,0,40
+665,Seto 2nd,0,0,24
+665,Seto 3rd,0,0,24
+665,Darknite,0,0,30
+665,Nitemare,0,0,40
+666,Simon Muran,0,0,20
+666,Villager1,0,0,12
+666,Weevil Underwood,0,0,32
+666,Yami Bakura,0,0,54
+666,Pegasus,0,0,32
+666,Kaiba,0,0,80
+666,Montain Mage,0,0,8
+666,High Mage Atenza,0,0,50
+666,High Mage Kepura,0,0,40
+666,Seto 2nd,0,0,24
+666,Seto 3rd,0,0,8
+666,Darknite,0,0,30
+667,Labyrinth Mage,0,0,168
+667,Heishin 2nd,0,0,10
+668,Yami Bakura,0,0,32
+668,Pegasus,0,0,40
+668,Teana 2nd,10,0,52
+668,High Mage Kepura,0,0,40
+668,Darknite,0,0,52
+669,Seto 2nd,0,0,52
+669,Guardian Neku,0,0,42
+669,Heishin 2nd,0,0,32
+669,Seto 3rd,0,0,40
+669,Darknite,0,0,52
+670,Seto,0,0,48
+670,Kaiba,0,12,80
+671,Simon Muran,0,0,14
+671,Villager1,0,0,12
+671,Yami Bakura,0,0,8
+671,Montain Mage,0,0,8
+671,Guardian Neku,0,0,40
+671,Seto 3rd,0,0,8
+671,Nitemare,20,0,0
+672,Heishin,0,0,52
+672,Mai Valentine,0,0,64
+672,Yami Bakura,0,0,32
+672,Pegasus,0,0,42
+672,Isis,0,0,36
+672,Kaiba,0,0,52
+672,High Mage Secmeton,0,0,32
+672,High Mage Anubisius,0,0,9
+672,High Mage Atenza,0,0,100
+672,High Mage Kepura,0,0,40
+672,Seto 2nd,0,0,24
+672,Seto 3rd,0,0,32
+672,Darknite,0,0,24
+672,Nitemare,0,0,48
+673,Villager1,0,0,12
+673,Yami Bakura,0,0,8
+673,Mage Soldier,0,0,52
+673,Montain Mage,0,0,8
+673,High Mage Atenza,0,0,30
+673,Seto 3rd,0,0,8
+674,Villager1,0,0,12
+674,Yami Bakura,0,0,8
+674,Mage Soldier,0,0,52
+674,Montain Mage,0,0,8
+674,High Mage Atenza,0,0,30
+674,Seto 3rd,0,0,8
+675,Kaiba,0,0,5
+675,High Mage Atenza,0,0,14
+675,Seto 3rd,0,0,72
+676,Simon Muran,0,0,20
+676,Villager1,0,0,12
+676,Heishin,0,0,52
+676,Mai Valentine,0,0,32
+676,Yami Bakura,0,0,8
+676,Pegasus,0,0,32
+676,Isis,0,0,32
+676,Kaiba,0,0,80
+676,Montain Mage,0,0,8
+676,High Mage Atenza,0,0,90
+676,High Mage Martis,0,0,25
+676,Meadow Mage,0,0,32
+676,Darknite,0,0,24
+677,Simon Muran,0,18,20
+677,Jono,0,18,16
+677,Villager1,0,0,12
+677,Seto,0,18,8
+677,Weevil Underwood,0,0,32
+677,Yami Bakura,0,0,8
+677,Pegasus,0,0,32
+677,Kaiba,0,0,80
+677,Jono 2nd,0,0,20
+677,Forest Mage,0,0,18
+677,Montain Mage,0,0,8
+677,Meadow Mage,0,0,32
+677,Darknite,0,0,24
+678,Villager1,0,0,12
+678,Yami Bakura,0,0,10
+678,Mage Soldier,0,0,52
+678,Montain Mage,0,0,8
+679,Jono,0,0,16
+679,Villager1,0,0,12
+679,Rex Raptor,0,0,32
+679,Bandit Keith,0,0,30
+679,Yami Bakura,0,0,32
+679,Kaiba,0,0,80
+679,Montain Mage,0,0,8
+679,Seto 2nd,0,0,24
+680,Villager1,0,0,12
+680,Yami Bakura,0,0,10
+680,Kaiba,0,0,80
+680,Montain Mage,0,0,8
+680,High Mage Atenza,0,0,90
+680,Nitemare,20,0,0
+681,Simon Muran,0,18,36
+681,Teana,0,14,52
+681,Jono,16,18,16
+681,Villager1,16,18,24
+681,Seto,0,0,48
+681,Weevil Underwood,0,0,120
+681,Teana 2nd,0,0,52
+681,Montain Mage,0,0,12
+681,Meadow Mage,0,0,64
+682,Simon Muran,12,0,36
+682,Teana,0,0,52
+682,Seto,0,18,52
+682,Heishin,0,0,24
+682,Rex Raptor,0,20,36
+682,Weevil Underwood,0,0,90
+682,Shadi,0,20,210
+682,Pegasus,0,0,120
+682,Teana 2nd,0,0,52
+682,Forest Mage,0,0,48
+682,Desert Mage,0,0,24
+682,High Mage Martis,0,18,25
+682,Meadow Mage,0,0,64
+682,Seto 2nd,0,0,24
+683,Simon Muran,0,0,36
+683,Jono,0,0,16
+683,Villager2,0,0,32
+683,Villager3,0,0,32
+683,Seto,0,18,56
+683,Heishin,0,0,24
+683,Rex Raptor,0,0,48
+683,Weevil Underwood,0,16,90
+683,Shadi,0,0,210
+683,Mage Soldier,0,0,52
+683,Teana 2nd,0,0,52
+683,Forest Mage,0,0,48
+683,High Mage Anubisius,0,0,130
+683,Montain Mage,0,0,16
+683,Desert Mage,0,0,24
+683,High Mage Martis,0,18,25
+683,Labyrinth Mage,0,0,24
+683,Guardian Neku,0,0,48
+683,Heishin 2nd,0,0,14
+683,Duel Master K,0,0,32
+684,Villager2,0,0,32
+684,Villager3,0,0,32
+684,Seto,0,0,20
+684,Heishin,0,0,24
+684,Weevil Underwood,0,0,90
+684,Mai Valentine,0,26,36
+684,Bandit Keith,0,30,32
+684,Yami Bakura,0,32,32
+684,Pegasus,0,0,120
+684,Jono 2nd,14,0,0
+684,Teana 2nd,0,0,52
+684,Ocean Mage,0,0,52
+684,Forest Mage,0,0,48
+684,High Mage Anubisius,0,0,136
+684,High Mage Atenza,0,0,90
+684,High Mage Martis,0,0,25
+684,High Mage Kepura,0,0,40
+684,Labyrinth Mage,0,0,24
+684,Seto 2nd,0,0,24
+684,Guardian Sebek,0,0,20
+684,Guardian Neku,0,0,48
+684,Heishin 2nd,0,0,24
+684,Seto 3rd,0,0,24
+684,Duel Master K,0,0,32
+685,Mai Valentine,0,0,36
+685,Bandit Keith,0,0,36
+685,Yami Bakura,0,0,34
+685,Pegasus,0,64,0
+685,Isis,0,32,0
+685,Jono 2nd,0,0,52
+685,Ocean Mage,0,0,68
+685,High Mage Secmeton,0,0,32
+685,Montain Mage,0,0,32
+685,High Mage Atenza,0,0,40
+685,High Mage Kepura,0,0,80
+685,Seto 2nd,0,0,24
+685,Guardian Sebek,0,0,20
+685,Guardian Neku,0,0,48
+685,Seto 3rd,0,0,48
+685,Darknite,0,0,40
+685,Nitemare,20,0,52
+686,Isis,0,0,36
+686,Kaiba,0,14,0
+687,Villager2,0,0,32
+687,Villager3,0,0,32
+687,Seto,0,18,20
+687,Heishin,0,0,24
+687,Mai Valentine,0,0,36
+687,Shadi,0,0,210
+687,Isis,0,0,36
+687,Kaiba,0,64,48
+687,Forest Mage,0,0,32
+687,High Mage Atenza,0,0,24
+687,High Mage Martis,0,18,25
+687,High Mage Kepura,0,0,80
+687,Labyrinth Mage,0,0,24
+687,Seto 2nd,0,0,24
+687,Heishin 2nd,0,0,48
+687,Seto 3rd,0,0,48
+687,Darknite,0,0,48
+687,Nitemare,0,0,76
+687,Duel Master K,0,0,32
+688,Villager2,0,0,32
+688,Villager3,0,0,32
+688,Seto,0,0,20
+688,Heishin,0,0,24
+688,Weevil Underwood,0,0,32
+688,Bandit Keith,0,0,36
+688,Yami Bakura,0,0,34
+688,Kaiba,0,0,48
+688,Mage Soldier,0,0,72
+688,Forest Mage,0,0,32
+688,High Mage Anubisius,0,0,136
+688,High Mage Atenza,0,0,90
+688,High Mage Martis,0,0,25
+688,High Mage Kepura,0,0,80
+688,Labyrinth Mage,0,0,24
+688,Seto 2nd,0,0,24
+688,Guardian Sebek,0,0,20
+688,Guardian Neku,0,0,48
+688,Heishin 2nd,0,0,48
+688,Seto 3rd,0,0,48
+688,Nitemare,0,0,76
+688,Duel Master K,0,0,32
+689,High Mage Anubisius,0,0,100
+689,Guardian Neku,0,0,46
+689,Heishin 2nd,0,0,46
+689,Seto 3rd,0,0,40
+689,Darknite,0,0,40
+690,Simon Muran,0,18,20
+690,Teana,0,15,52
+690,Jono,0,18,16
+690,Villager1,16,18,22
+690,Villager2,0,0,32
+690,Villager3,0,0,32
+690,Seto,0,0,32
+690,Heishin,0,0,20
+690,Rex Raptor,0,0,32
+690,Weevil Underwood,0,0,32
+690,Mai Valentine,0,0,32
+690,Bandit Keith,0,0,36
+690,Shadi,0,0,210
+690,Yami Bakura,0,0,32
+690,Pegasus,0,0,120
+690,Isis,10,0,36
+690,Kaiba,0,0,48
+690,Mage Soldier,0,0,52
+690,High Mage Anubisius,0,0,136
+690,Montain Mage,0,0,12
+690,High Mage Atenza,0,0,90
+690,Meadow Mage,20,0,32
+690,High Mage Kepura,0,0,80
+690,Heishin 2nd,0,0,48
+690,Darknite,0,0,48
+690,Duel Master K,0,0,32
+691,Villager1,0,0,12
+691,Yami Bakura,0,0,10
+691,Montain Mage,0,0,8
+691,Seto 3rd,0,0,8
+692,Villager1,0,0,12
+692,Yami Bakura,0,0,10
+692,Ocean Mage,0,0,120
+692,Montain Mage,0,0,8
+692,Seto 3rd,0,0,8
+693,Villager1,0,0,12
+693,Villager2,0,0,32
+693,Villager3,0,0,32
+693,Heishin,0,0,24
+693,Weevil Underwood,0,0,32
+693,Shadi,0,0,80
+693,Yami Bakura,0,0,32
+693,Pegasus,0,0,120
+693,Kaiba,0,0,80
+693,Montain Mage,0,0,8
+693,High Mage Martis,0,34,36
+693,Seto 3rd,0,0,8
+693,Darknite,0,0,24
+693,Duel Master K,12,0,32
+694,Villager1,0,0,12
+694,Heishin,5,0,0
+694,Yami Bakura,0,0,10
+694,Montain Mage,0,0,8
+694,Seto 3rd,0,0,8
+695,Villager1,0,0,12
+695,Heishin,0,0,24
+695,Weevil Underwood,0,0,32
+695,Bandit Keith,0,0,32
+695,Yami Bakura,0,0,32
+695,Pegasus,0,0,120
+695,Kaiba,0,0,80
+695,Montain Mage,0,0,8
+695,High Mage Martis,0,34,36
+695,Darknite,0,0,24
+695,Duel Master K,12,0,0
+696,High Mage Anubisius,0,0,100
+697,Villager1,0,0,12
+697,Yami Bakura,0,0,10
+697,Jono 2nd,0,0,100
+697,Montain Mage,0,0,8
+697,High Mage Kepura,0,0,50
+697,Seto 3rd,0,0,8
+698,Teana,0,0,20
+698,Villager1,0,0,12
+698,Yami Bakura,0,0,10
+698,Teana 2nd,0,0,154
+698,Montain Mage,0,0,8
+698,Seto 3rd,0,0,8
+699,Teana,0,1,20
+699,Villager1,0,0,12
+699,Rex Raptor,0,0,32
+699,Weevil Underwood,0,0,32
+699,Yami Bakura,0,0,32
+699,Pegasus,0,0,32
+699,Kaiba,0,0,40
+699,Montain Mage,0,0,8
+699,Desert Mage,0,0,48
+699,Darknite,0,0,32
+699,Duel Master K,20,0,0
+700,Villager1,0,0,12
+700,Yami Bakura,0,0,10
+700,Ocean Mage,0,0,130
+700,Montain Mage,0,0,8
+700,Seto 3rd,0,0,8
+701,Seto,8,0,0
+701,Kaiba,4,0,0
+701,Teana 2nd,10,0,40
+701,Meadow Mage,5,0,0
+701,High Mage Kepura,17,0,0
+702,Seto,0,0,10
+702,Heishin,5,0,0
+702,Meadow Mage,5,0,0
+702,High Mage Kepura,20,0,0
+703,Forest Mage,4,0,0
+703,High Mage Anubisius,6,0,30
+703,Heishin 2nd,12,0,0
+703,Seto 3rd,12,0,0
+704,Kaiba,3,0,0
+705,Montain Mage,0,0,32
+705,High Mage Atenza,10,0,15
+706,Montain Mage,16,0,0
+706,High Mage Atenza,16,0,15
+706,Heishin 2nd,0,0,24
+707,Pegasus,8,0,0
+707,Jono 2nd,0,0,10
+707,Meadow Mage,20,0,0
+707,Guardian Neku,8,0,0
+707,Heishin 2nd,12,0,24
+707,Darknite,16,0,0
+707,Nitemare,0,0,48
+708,Isis,4,0,0
+708,Teana 2nd,0,0,20
+709,Heishin,0,0,14
+709,Yami Bakura,10,0,20
+709,High Mage Martis,12,0,0
+709,Guardian Neku,14,0,38
+709,Heishin 2nd,4,0,0
+709,Darknite,8,0,0
+710,Ocean Mage,1,0,0
+710,High Mage Secmeton,8,0,36
+711,Montain Mage,14,0,0
+711,High Mage Atenza,0,0,15
+711,Seto 2nd,0,16,0
+711,Darknite,8,0,0
+712,Montain Mage,16,6,0
+712,Meadow Mage,20,12,0
+713,Heishin,4,0,0
+713,High Mage Atenza,20,0,0
+713,Heishin 2nd,4,0,24
+714,Heishin,4,0,0
+714,Forest Mage,0,0,32
+714,Montain Mage,0,2,0
+714,Meadow Mage,20,2,0
+714,Heishin 2nd,10,0,0
+714,Duel Master K,16,0,0
+715,Seto,8,0,32
+715,Heishin,5,0,15
+715,Guardian Neku,14,0,0
+715,Seto 3rd,30,0,0
+715,Nitemare,20,0,0
+715,Duel Master K,2,0,0
+716,Heishin,5,0,0
+716,Mage Soldier,8,0,0
+716,High Mage Kepura,8,0,34
+716,Heishin 2nd,10,0,0
+716,Seto 3rd,12,0,0
+716,Darknite,8,0,0
+717,Heishin,0,0,15
+717,High Mage Anubisius,6,0,20
+718,Heishin,0,0,15
+718,Ocean Mage,8,0,36
+719,Heishin,5,0,0
+719,High Mage Martis,12,0,0
+720,Heishin,5,0,15
+720,Yami Bakura,10,0,0
+720,High Mage Martis,12,0,0
+720,Guardian Neku,10,0,0
+720,Heishin 2nd,10,0,24
+720,Darknite,0,0,52
+721,Heishin,0,0,8
+721,Guardian Neku,0,0,40
+722,Shadi,8,0,0
+722,Duel Master K,2,0,20
